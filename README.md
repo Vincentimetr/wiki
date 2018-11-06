@@ -1,2 +1,6 @@
-# Initial page
+---
+description: Bienvenue sur la Documentation d'AltisDev
+---
+
+# Bienvenue
 
