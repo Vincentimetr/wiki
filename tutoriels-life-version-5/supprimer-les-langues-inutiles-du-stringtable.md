@@ -160,5 +160,4 @@ Dans la fenêtre `Remplacer par`, **mettre** `Original`
 
 Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème. 
 
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
-
+**Merci à Animos pour le Screenshot.**
