@@ -116,7 +116,7 @@ https://notepad-plus-plus.org/download/v7.5.3.html
 
 3- **Sélectionnez** l'onglet Remplacer avec les mêmes paramètres:
 
-![](https://wiki.altisdev.com/uploads/images/gallery/2017-12-Dec/scaled-840-0/RK47CHEHY0qzGSeI-image-1514737273266.png)
+![](https://i.imgur.com/iAbUUwI.png)
 
 4- **Supprimez** la langue Original:
 
