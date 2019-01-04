@@ -61,7 +61,9 @@ quit
 
 [![82zt23nip3g45XRm-fdbde72d65d55b3256b20bf2f79c2e04.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/82zt23nip3g45XRm-fdbde72d65d55b3256b20bf2f79c2e04.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/82zt23nip3g45XRm-fdbde72d65d55b3256b20bf2f79c2e04.png)
 
-Vous devez maintenant installer **DirectX11** qui permet entre autres de gérer une partie de la physique d'Arma, **téléchargez** `dxwebsetup.exe` \(disponible en fichier joint en haut à droite\)
+Vous devez maintenant installer **DirectX11** qui permet entre autres de gérer une partie de la physique d'Arma, **téléchargez** `dxwebsetup.exe` 
 
-Vous venez de télécharger Arma 3 dans votre dossier **C:/arma3\_serveur**. Vous pouvez maintenant passer à [la page suivante](https://wiki.altisdev.com/books/installation-et-configuration-dun-serveur-altis-life-de-a-%C3%A0-z/page/3--installation-du-serveur-mysql)
+{% file src="../.gitbook/assets/dxwebsetup.exe" %}
+
+Vous venez de télécharger Arma 3 dans votre dossier **C:/arma3\_serveur**. Vous pouvez maintenant passer à la page suivante.
 

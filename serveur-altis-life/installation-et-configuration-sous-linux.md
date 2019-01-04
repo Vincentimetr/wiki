@@ -20,7 +20,9 @@ Avant de commencer ce guide d'installation, vous devez absolument vérifier les 
 
  Dans cette partie, nous allons devoir **installer les différents paquets nécessaires** pour créer un serveur AltisLife.
 
-Si vous disposez d'un serveur distant, vous allez devoir vous connecter dessus à l'aide de Putty téléchargé sur [page précédente](https://wiki.altisdev.com/books/installation-et-configuration-dun-serveur-altis-life-de-a-%C3%A0-z/page/1-pr%C3%A9requis-dinstallation-)
+{% hint style="info" %}
+Si vous disposez d'un serveur distant, vous allez devoir vous connecter dessus à l'aide de Putty téléchargé précédemment.
+{% endhint %}
 
  Nous allons donc voir **comment utiliser Putty** et **installer nos dépendances** et paquets sur notre futur serveur !
 
@@ -419,7 +421,10 @@ Si la connexion échoue, assurez-vous d'avoir correctement suivi les étapes pr�
 
 Suivez alors ces étapes pour importer la base de données :
 
-* Téléchargez le fichier [altislife.sql](https://wiki.altisdev.com/attachments/10)
+* Téléchargez le fichier :
+
+{% file src="../.gitbook/assets/altislife.sql" %}
+
 * Sur HeidiSQL, **allez** dans `Fichier > Exécuter un fichier SQL...` puis ouvrez le fichier _altislife.sql_
 * Une erreur va apparaître, c'est un simple problème de type, faites `OK`
 * Allez ensuite dans votre console SSH via Putty, puis **saisissez** cette commande, pour autoriser l'user arma3 à interagir avec la base de données `altislife` :
