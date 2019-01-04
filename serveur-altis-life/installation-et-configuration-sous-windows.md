@@ -111,6 +111,10 @@ Si tout n'est pas correctement exécuté \(que vous avez des croix rouges\) assu
 
 15. Il faut maintenant télécharger un logiciel de gestion de bases de données, nous allons utiliser HeidiSQL, qui est gratuit, et pratique, **téléchargez-**le sur le [site officiel](https://www.heidisql.com/download.php) puis **installez-le** avec les paramètres par défaut
 
+
+
+#### Démarrage Gestion SQL et installation du schéma altislife.sql
+
 16. **Ouvrez** maintenant HeidiSQL, voici à quoi doit ressembler l'interface : 
 
 ![](../.gitbook/assets/yljrayjgxtynxkn0-15245c28dac847060e70edb140255b4c.png)
