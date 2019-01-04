@@ -29,11 +29,11 @@ login VOTRE_NOM_DE_COMPTE_STEAM VOTRE_MOT_DE_PASSE VOTRE_CODE_STEAM_GUARD
 
 Une fois connecté, vous verrez que le fichier steamcmd.exe vient de télécharger plusieurs fichiers, votre dossier va donc ressembler à ça : 
 
-[![OFPA4Ae3EW7kT8iq-d1da138fa48f8b2be38bb10c3adaf7c6.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/OFPA4Ae3EW7kT8iq-d1da138fa48f8b2be38bb10c3adaf7c6.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/OFPA4Ae3EW7kT8iq-d1da138fa48f8b2be38bb10c3adaf7c6.png)
+![](../.gitbook/assets/ofpa4ae3ew7kt8iq-d1da138fa48f8b2be38bb10c3adaf7c6.png)
 
-Une fois votre compte identifié, vous devriez voir ceci dans la console : 
+Une fois votre compte identifié, vous devriez voir ceci dans la console :
 
-[![k8RMvdejFlyTbV5J-6be8386e3920e7f3701723549b0bc494.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/k8RMvdejFlyTbV5J-6be8386e3920e7f3701723549b0bc494.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/k8RMvdejFlyTbV5J-6be8386e3920e7f3701723549b0bc494.png)
+![](../.gitbook/assets/k8rmvdejflytbv5j-6be8386e3920e7f3701723549b0bc494.png)
 
 **Saisissez** alors dans la console :1
 
@@ -49,7 +49,7 @@ app_update 233780 validate
 
 Un téléchargement devrait alors se lancer : 
 
-[![mjLc9SJIOPQpCxUv-8d8b36e5d400dfb6bf9abf21a2b48033.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/mjLc9SJIOPQpCxUv-8d8b36e5d400dfb6bf9abf21a2b48033.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/mjLc9SJIOPQpCxUv-8d8b36e5d400dfb6bf9abf21a2b48033.png)
+![](../.gitbook/assets/mjlc9sjiopqpcxuv-8d8b36e5d400dfb6bf9abf21a2b48033.png)
 
 Une fois le téléchargement terminé, vous devriez avoir un message confirmation, assurez-vous en, puis **saisissez** dans la console : 1
 
@@ -59,7 +59,7 @@ quit
 
  Comme ceci :
 
-[![82zt23nip3g45XRm-fdbde72d65d55b3256b20bf2f79c2e04.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/82zt23nip3g45XRm-fdbde72d65d55b3256b20bf2f79c2e04.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/82zt23nip3g45XRm-fdbde72d65d55b3256b20bf2f79c2e04.png)
+![](../.gitbook/assets/82zt23nip3g45xrm-fdbde72d65d55b3256b20bf2f79c2e04.png)
 
 Vous devez maintenant installer **DirectX11** qui permet entre autres de gérer une partie de la physique d'Arma, **téléchargez** `dxwebsetup.exe` 
 
