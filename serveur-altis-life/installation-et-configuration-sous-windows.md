@@ -250,7 +250,7 @@ Après avoir fait tout cela, vous allez suivre la partie du tutoriel qui est pr�
 
 Puis, pour finir, vous allez ouvrir l'archive **extDB2-71.7zip**, puis ouvrir le dossier Windows, et **copier le dossier @extDB2 et le fichier tbbmalloc.dll dans votre dossier C:\arma3\_serveur.** C'est important.
 
-Pour configurer extDB2, vous devrez suivre [cette partie](https://wiki.altisdev.com/link/7#bkmrk-configuration-de-ext) du tutoriel concernant la base de donnée
+Pour configurer extDB2, vous devrez suivre [cette partie](https://docs.altisdev.com/wiki/serveur-altis-life/installation-et-configuration-sous-windows#configuration-de-extdb2-extdb3) du tutoriel concernant la base de donnée
 
 #### 2.a\) Si vous avez une machine en 64 bits **\( le plus utilisé, généralement \)**
 
@@ -264,7 +264,7 @@ Puis, vous allez dépacker l'archive avec PBO Manager, en faisant `clic droit --
 Suite à ça, vous aurez un dossier **Altis\_Life.Altis**. Vous allez venir mettre le fichier SQM correspondant à la map utilisée. Les deux seules officiellement supportées à l'heure d'aujourd'hui sont Altis et Tanoa. Ces fichiers sont disponibles dans le dossier SQMs.
 
   
-****Vous allez devoir suivre toutes les étapes décrites [dans ce tutoriel](https://altisdev.com/topic/11266/4-4r4-passer-d-extdb2-%C3%A0-extdb3) pour faire fonctionner votre mission 4.4R4 avec extDB3.
+****Vous allez devoir suivre toutes les étapes décrites [dans ce tutoriel](https://docs.altisdev.com/wiki/serveur-altis-life/installation-et-configuration-sous-windows#configuration-de-extdb2-extdb3) pour faire fonctionner votre mission 4.4R4 avec extDB3.
 
   
 Après avoir tout effectué, vous devrez repacker le PBO avec PBO Manager en faisant `clic droit --> PBO Manager --> Pack into PBO`.  
@@ -276,7 +276,7 @@ Après avoir fait tout cela, vous allez suivre la partie du tutoriel qui est pr�
 
 Puis, vous allez dézipper l'archive **extDB3-1028.7zip** et placer les fichiers/dossiers **@extDB3**, **tbbmalloc.dll** et **tbbmalloc\_x64.dll** dans votre dossier `C:\arma3_serveur`.
 
-Merci de vous référer à [cette partie](https://wiki.altisdev.com/link/7#bkmrk-configuration-de-ext) du tutoriel pour configurer extDB3
+Merci de vous référer à [cette partie](https://docs.altisdev.com/wiki/serveur-altis-life/installation-et-configuration-sous-windows#configuration-de-extdb2-extdb3) du tutoriel pour configurer extDB3
 
 **2.b\)**
 
@@ -292,11 +292,11 @@ Après avoir tout effectué, vous devrez repacker le PBO avec PBO Manager en fai
 
 Ensuite, vous allez dézipper le contenu du fichier **BEFilters.zip** dans le dossier `C:\arma3_serveur\battleye`.
 
-Après avoir fait tout cela, vous devez [suivre cette partie](https://wiki.altisdev.com/link/7#bkmrk-configuration-de-ext) du tutoriel
+Après avoir fait tout cela, vous devez [suivre cette partie](https://docs.altisdev.com/wiki/serveur-altis-life/installation-et-configuration-sous-windows#demarrage-gestion-sql-et-installation-du-schema-altislife-sql) du tutoriel
 
 Puis, vous allez dézipper l'archive `extDB3-1028.7zip` et placer les fichiers/dossiers `@extDB3`, `tbbmalloc.dll` et `tbbmalloc_x64.dll` dans votre dossier `C:\arma3_serveur`.
 
-Merci de vous référer à [cette partie](https://wiki.altisdev.com/link/7#bkmrk-configuration-de-ext) du tutoriel pour configurer extDB3
+Merci de vous référer à [cette partie](https://docs.altisdev.com/wiki/serveur-altis-life/installation-et-configuration-sous-windows#configuration-de-extdb2-extdb3) du tutoriel pour configurer extDB3
 
 {% hint style="success" %}
 Vous avez désormais un serveur Arma 3 qui fonctionne correctement, avec le minimum requis.
