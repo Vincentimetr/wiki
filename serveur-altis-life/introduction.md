@@ -1,4 +1,4 @@
-# Introduction
+# Bien choisir son serveur
 
 **Bien choisir son support de travail / serveur de développement**
 
@@ -8,7 +8,9 @@ Pour commencer, il vous faut un serveur capable d'héberger, et de faire tourner
 
 Le choix de l'hébergeur est une question presque primordiale, pour s'assurer de la qualité du service fourni. 
 
-Nous vous déconseillons très fortement les hébergements mutualisés, comme **Nitrado** par exemple, qui n'est pas du tout un support de travail "pratique" et fiable.
+{% hint style="danger" %}
+Nous vous déconseillons très fortement les hébergements mutualisés, comme _Nitrado_ par exemple, qui n'est pas du tout un support de travail "pratique" et fiable malgré qu'ils soient bon marché.
+{% endhint %}
 
 Voici une liste de bons hébergeurs, plus ou moins chers :
 
@@ -30,5 +32,7 @@ Voici les **minimums** **requis** pour héberger et supporter un serveur Arma :
 * Le système d'exploitation peut être Windows comme Linux \(en sachant que Linux offre de meilleures performances\)
 * Un compte Steam **possédant Arma** dans la bibliothèque de jeux \(Sinon, vous ne pourrez pas installer Arma\)
 
+{% hint style="info" %}
 Pour finir, il vous faudra de la patience, et l'envie de réussir, et surtout : être autonome et apte à chercher par soi-même, ce sont des vertus indispensables.
+{% endhint %}
 

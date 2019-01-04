@@ -4,7 +4,7 @@
 
 ## Serveur Altis Life
 
-* [Introduction](serveur-altis-life/introduction.md)
+* [Bien choisir son serveur](serveur-altis-life/introduction.md)
 * [Installation et configuration sous Windows](serveur-altis-life/installation-et-configuration-sous-windows.md)
 * [Installation et configuration sous Linux](serveur-altis-life/installation-et-configuration-sous-linux.md)
 
