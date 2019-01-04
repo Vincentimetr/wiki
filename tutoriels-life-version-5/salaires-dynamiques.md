@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel permet de fixer les salaires des civils en fonction de leurs
-  licences et de fixer le salaire des policiers en fonction de leurs "coplevel"!
----
-
 # Salaires dynamiques
 
 ## 1-Présentation <a id="bkmrk-page-title"></a>

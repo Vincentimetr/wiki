@@ -1,10 +1,3 @@
----
-description: >-
-  Ce script qui vous permettra d’avoir votre SafeZone fonctionnelle.C’est à dire
-  que le civil:- Tire une première fois: Il aura un message d’avertissement.- Il
-  tire une deuxième fois: Il aura un mes
----
-
 # SafeZone + Anti-Tirs + Messages
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

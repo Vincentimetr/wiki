@@ -1,9 +1,3 @@
----
-description: >-
-  Ce petit script vous permet a vos mappeurs de ne pas avoir besoin d'ajouter
-  d'init lors de la pose d'un ATM
----
-
 # AddAction ATM automatique
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

@@ -1,10 +1,3 @@
----
-description: >-
-  Pour utiliser n'importe quels samples ou outils fournis par Bohemia
-  Interactive pour le modding Arma 3, vous devez être d'accord avec les
-  conditions
----
-
 # Arma 3 Licence de Modding
 
 ## Arma 3 Licence de Modding <a id="bkmrk-page-title"></a>

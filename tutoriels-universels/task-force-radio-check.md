@@ -1,7 +1,3 @@
----
-description: Permet de voir si la personne est connecté ou non au TeamSpeak en question
----
-
 # Task Force Radio check
 
 ## Installation <a id="bkmrk-page-title"></a>

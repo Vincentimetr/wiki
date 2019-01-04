@@ -1,7 +1,3 @@
----
-description: Ce tutoriel vous apprendra à installer un nouvel HUD pas à pas.
----
-
 # HUD avec icônes et jauges progressives
 
 ## 1 - Introduction <a id="bkmrk-page-title"></a>

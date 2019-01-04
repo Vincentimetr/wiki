@@ -1,10 +1,3 @@
----
-description: >-
-  Ce script permet un trafic aérien géré par les bots d'Arma.Parfaitement
-  optimisé, il ne peut créer ou rentrer en conflit avec aucun autre script.Le
-  script est facile à installer et paramétrable.
----
-
 # Trafic Aérien
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

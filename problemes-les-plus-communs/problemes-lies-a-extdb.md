@@ -1,7 +1,3 @@
----
-description: Guide de résolution des problèmes courants rencontrés avec extDB
----
-
 # Problèmes liés à extDB
 
 ## 1 - Guide de résolution des problèmes liés à extDB2

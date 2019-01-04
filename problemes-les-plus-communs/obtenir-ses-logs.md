@@ -1,9 +1,3 @@
----
-description: >-
-  Chapitre permettant de savoir comment trouver ses logs, sur toutes plateformes
-  confondues.
----
-
 # Obtenir ses logs
 
 ## Comment obtenir ses logs <a id="bkmrk-page-title"></a>

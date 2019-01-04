@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel vous apprendra pas à pas à créer un menu de placement d'objets
-  pour les policiers et les médecins.
----
-
 # Menu d'objets plaçables
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

@@ -1,9 +1,3 @@
----
-description: >-
-  Le présent guide vous apprendra à installer un nouveau menu Y style tablette
-  pour la 5.0
----
-
 # Menu Y - Réadapté pour la 5.0
 
 ## 1 - Introduction <a id="bkmrk-page-title"></a>

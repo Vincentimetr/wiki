@@ -1,9 +1,3 @@
----
-description: >-
-  Ce script permet de visualiser depuis un écran, la vision des policiers
-  possédant une GOPRO mais aussi de caméra de sécurité.
----
-
 # Gopro Et Caméra De Sécurité
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

@@ -1,10 +1,3 @@
----
-description: >-
-  Dans ce chapitre, nous allons voir comment installer File Zilla Server, qui
-  permet de gérer les fichiers d'un répertoire à distance, c'est à dire d'une
-  autre machine, comme votre ordinateur personnel
----
-
 # Installer et configurer un accès FTP \(Sous Windows\)
 
 ## 1- Télécharger FileZilla Server <a id="bkmrk-page-title"></a>

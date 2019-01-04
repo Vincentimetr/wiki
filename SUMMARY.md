@@ -4,9 +4,9 @@
 
 ## Serveur Altis Life
 
-* [Introduction](installation-et-configuration-dun-serveur-altis-life-de-a-a-z-1/introduction.md)
-* [Installation et configuration sous Windows](installation-et-configuration-dun-serveur-altis-life-de-a-a-z-1/installation-et-configuration-sous-windows.md)
-* [Installation et configuration sous Linux](installation-et-configuration-dun-serveur-altis-life-de-a-a-z-1/installation-et-configuration-sous-linux.md)
+* [Introduction](serveur-altis-life/introduction.md)
+* [Installation et configuration sous Windows](serveur-altis-life/installation-et-configuration-sous-windows.md)
+* [Installation et configuration sous Linux](serveur-altis-life/installation-et-configuration-sous-linux.md)
 
 ## Modding / Modélisation 3D
 

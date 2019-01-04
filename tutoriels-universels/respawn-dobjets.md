@@ -1,10 +1,3 @@
----
-description: >-
-  Ce script permet a des objets cassables tel que des murs de respawn après un
-  temps paramétrable. Les débris sont supprimés après un temps également
-  paramétrable.
----
-
 # Respawn d'objets
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

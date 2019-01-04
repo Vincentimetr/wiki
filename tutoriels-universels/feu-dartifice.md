@@ -1,10 +1,3 @@
----
-description: >-
-  Ce script permet de lancer un feu d'artifice d'environ 10 minutes dans un lieu
-  a une plage horaire fixéeTotalement paramétrable et optimisé de façon a ce
-  qu'il soit compatible avec n'importe quel aut
----
-
 # Feu d'artifice
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>
@@ -27,11 +20,15 @@ _Paramétrage par défaut:_
 
 **Éléments à télécharger**
 
-Vous devez maintenant **télécharger** les scripts
+Vous devez maintenant **télécharger** les scripts :
 
 `Altis_life.Altis\Init\Init_Feu_Artifice.sqf`
 
 `Altis_life.Altis\Effets\Effet_Artifice.sqf`
+
+{% file src="../.gitbook/assets/init\_feu\_artifice.sqf" %}
+
+{% file src="../.gitbook/assets/effet\_artifice.sqf" %}
 
 {% hint style="info" %}
 Niveau de difficulté : **Moyen**  

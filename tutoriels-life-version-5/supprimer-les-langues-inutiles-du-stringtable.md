@@ -6,7 +6,7 @@ description: >-
 
 # Supprimer les langues inutiles du Stringtable
 
-## 1- Introduction <a id="bkmrk-page-title"></a>
+## 1- Introduction  <a id="bkmrk-page-title"></a>
 
 **But de ce tutoriel**
 
@@ -16,7 +16,7 @@ Je vais vous guidez pour supprimer ce contenu indésirable qui allègera les jou
 
 **Aperçu du résultat une fois implanté**
 
- Passer de ceci:
+Passer de ceci:
 
 {% code-tabs %}
 {% code-tabs-item title="stringtable.xml" %}
@@ -69,7 +69,7 @@ Je vais vous guidez pour supprimer ce contenu indésirable qui allègera les jou
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-  A ceci:
+A ceci:
 
 {% code-tabs %}
 {% code-tabs-item title="stringtable.xml" %}
@@ -90,9 +90,9 @@ Je vais vous guidez pour supprimer ce contenu indésirable qui allègera les jou
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-## 2- Installation <a id="bkmrk-page-title"></a>
+## 2- Installation  <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+**Fichiers concernés**
 
 ```text
 stringtable.xml
@@ -100,12 +100,12 @@ stringtable.xml
 
 **Logiciel nécessaire**
 
- `Notepad++`
+`Notepad++`
 
 Ci-dessous la page internet du site de notepad ++ pour télécharger le logiciel Notepad ++:
 
 {% hint style="warning" %}
-https://notepad-plus-plus.org/download/v7.5.3.html
+[https://notepad-plus-plus.org/download/v7.5.3.html](https://notepad-plus-plus.org/download/v7.5.3.html)
 {% endhint %}
 
 **Mise en place**
@@ -158,6 +158,7 @@ Dans la fenêtre `Remplacer par`, **mettre** `Original`
 
 **Accès aux problèmes récurrents**
 
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème. 
+Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé \_Problèmes Récurrents _\*\*_\_pour trouver une réponse à votre problème.
 
 **Merci à Animos pour le Screenshot.**
+

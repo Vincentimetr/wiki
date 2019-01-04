@@ -1,9 +1,3 @@
----
-description: >-
-  Vous verrez à travers ce chapitre comment modifier le menu afficher lorsque
-  vous devez choisir une ville d'apparition.
----
-
 # Modification de l'interface du SpawnMenu
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

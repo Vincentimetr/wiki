@@ -1,9 +1,3 @@
----
-description: >-
-  Un simple autosave qui vous permet d'éviter la rage de vos joueurs quand ils
-  ont oublier de sauvegarder leur progression.
----
-
 # Autosave
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

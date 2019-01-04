@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel vous permettra de mettre en place une bourse dynamique en temps
-  réel sur votre serveur. Elle est également relativement personnalisable.
----
-
 # Bourse Dynamique
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

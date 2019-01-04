@@ -1,10 +1,3 @@
----
-description: >-
-  Ce tutoriel vous montrera comment créer une white-list via une base de
-  données, compatible avec toute version qui utilise le remoteExec (donc + de
-  version 3.x).
----
-
 # Mettre en place une White-list
 
 ## 1. Introduction <a id="bkmrk-page-title"></a>

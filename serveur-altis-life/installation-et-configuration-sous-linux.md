@@ -1,9 +1,3 @@
----
-description: >-
-  Installation complète sous le système d'exploitation GNU/Linux(Distributions
-  telles que Ubuntu/Debian)
----
-
 # Installation et configuration sous Linux
 
 

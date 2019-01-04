@@ -1,9 +1,3 @@
----
-description: >-
-  Il s'agit de faire les bons choix et de connaitre les minimums requis pour
-  construire votre serveur
----
-
 # Introduction
 
 **Bien choisir son support de travail / serveur de développement**

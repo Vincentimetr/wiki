@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel permet d'empêcher au joueur d'utiliser le menu téléphone si il ne
-  possède pas une radio
----
-
 # Gestion du téléphone
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

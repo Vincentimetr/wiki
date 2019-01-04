@@ -1,10 +1,3 @@
----
-description: >-
-  Cette catégorie contient des outils officiels créés par la Bohemia
-  Interactive. Bohemia Interactive fournit ces outils à la communauté sous les
-  termes qui permet l'utilisation gratuite des outils pour
----
-
 # Arma 3 Outils Officiels \(En cours de rédaction\)
 
 ## Arma 3 Outils Officiels \(En cours de rédaction\)

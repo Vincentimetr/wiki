@@ -1,9 +1,3 @@
----
-description: >-
-  Ce script permet à un mappeur n'ayant aucune connaissance du sqf de pouvoir
-  ajouter des lumières de façon extrêmement simple.
----
-
 # Lumières de Couleurs
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

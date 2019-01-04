@@ -1,10 +1,3 @@
----
-description: >-
-  Ce script, combiné a un mapping donnera a votre Altis Life un ou plusieurs
-  circuits de course avec chronomètre permettant aux joueurs de s'affronter au
-  contre la montre dans le circuit.Le script gard
----
-
 # Circuit de Course
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>

@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel vous permettra de restreindre les véhicules des policiers et
-  médecins à la location uniquement.
----
-
 # Imposer la location de véhicules
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel vous propose de rendre invisible sur la map pour les membres d'un
-  même gang si ils ne possèdent pas de GPS ou si ils sont menottés.
----
-
 # Gestion du GPS
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

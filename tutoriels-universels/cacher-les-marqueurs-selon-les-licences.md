@@ -1,10 +1,3 @@
----
-description: >-
-  Ce tutoriel vous permet de cacher certain marqueurs selon les licences des
-  joueurs (Les joueurs commencent avec aucun marqueur sur la map et au fur et à
-  mesure qu'ils achètent des licences, ces marque
----
-
 # Cacher les marqueurs selon les licences
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

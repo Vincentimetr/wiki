@@ -1,9 +1,3 @@
----
-description: >-
-  Ce tutoriel vous permet d'améliorer le script de base des boules quies en
-  réglant le volume de 10 % en 10 %
----
-
 # Boules quies
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>

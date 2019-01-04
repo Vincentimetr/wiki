@@ -1,7 +1,3 @@
----
-description: Gérer des reboots automatique pour n'importe quelle programme !
----
-
 # Reboot automatique pour votre serveur
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>
