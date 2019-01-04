@@ -2,11 +2,14 @@
 
 
 
-## 1 - Pré-requis d'installation <a id="bkmrk-page-title"></a>
+## Pré-requis d'installation <a id="bkmrk-page-title"></a>
 
-Avant de commencer ce guide d'installation, vous devez absolument vérifier les pré-requis systèmes pour installer un serveur AltisLife depuis [cette page essentielle.](https://wiki.altisdev.com/books/installation-et-configuration-dun-serveur-altis-life-de-a-%C3%A0-z/page/bien-choisir-son-serveur)  
-  
-**ATTENTION :** **Vous devez disposer d'un serveur Linux de type Debian - Ubuntu ou CentOS**, nous vous recommandons vivement de **ne pas utiliser Fedora**.
+Avant de commencer ce guide d'installation, vous devez absolument vérifier les pré-requis systèmes pour installer un serveur AltisLife depuis [cette page essentielle.](https://docs.altisdev.com/wiki/serveur-altis-life/introduction)  
+
+
+{% hint style="danger" %}
+**ATTENTION :** Vous devez disposer d'un serveur Linux de type Debian - Ubuntu ou CentOS, nous vous recommandons vivement de **ne pas utiliser Fedora**.
+{% endhint %}
 
 **Nous avons besoin de plusieurs logiciels afin de compléter ce guide sans problème**
 
@@ -26,21 +29,25 @@ Si vous disposez d'un serveur distant, vous allez devoir vous connecter dessus �
 
  Nous allons donc voir **comment utiliser Putty** et **installer nos dépendances** et paquets sur notre futur serveur !
 
-**1 - Lancement et configuration de Putty :**
+### **1 - Lancement et configuration de Putty :**
 
-[![UGX5GpGd5cJClkIf-Putty.png](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/UGX5GpGd5cJClkIf-Putty.png)](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/UGX5GpGd5cJClkIf-Putty.png)
+![](../.gitbook/assets/ugx5gpgd5cjclkif-putty.png)
 
 Par exemple, vous devriez remplir le champ **Host Name \(or IP address\) avec l'adresse IP ou nom d'hôte de votre serveur** ainsi que le port SSH de votre serveur \(**par défaut:** 22\)
 
-[![5cQQUrcyqdkV4zH3-ip.png](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/5cQQUrcyqdkV4zH3-ip.png)](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/5cQQUrcyqdkV4zH3-ip.png)
+![](../.gitbook/assets/5cqqurcyqdkv4zh3-ip.png)
 
 Vous pouvez **enfin appuyer sur le bouton "Open",** vous devriez avoir une fenêtre qui vous **demande l'utilisateur sur lequel vous voulez vous connecter** \(vous d**evez** répondre soit root, soit un utilisateur créée au préalable\), cette fenêtre apparaitra :
 
-![](https://i.gyazo.com/2c8ada35b86a28c0adcdf13a5697b8c7.png)
+![](../.gitbook/assets/2c8ada35b86a28c0adcdf13a5697b8c7.png)
 
-Une fois, cela fait, le terminal devrait demander votre mot de passe, il ne sera pas affiché ;\) 
+{% hint style="info" %}
+Une fois, cela fait, le terminal devrait demander votre mot de passe, il ne sera pas affiché ****lorsque vous écrirez, **par mesure de sécurité ça sera toujours comme ça sur Linux.**
+{% endhint %}
 
-**2 - Installation des paquets pour LGSM**
+![](../.gitbook/assets/spagh9zy9dmwhkqc-image-1503737871741.png)
+
+### **2 - Installation des paquets pour LGSM**
 
 Pendant ce chapitre, Linux dispose de plusieurs distributions, il existe plusieurs dérivés de Linux qui ont des gestionnaires de paquets :  
   
@@ -55,7 +62,7 @@ getconf LONG_BIT
 
 Vous obtiendrez soit 32, soit 64 en réponse de cette commande.
 
-**2.1 - Installation des paquets sous Ubuntu**
+#### **2.1 - Installation des paquets sous Ubuntu**
 
 Si vous êtes sur **une version 64 bits d'Ubuntu**, **vous devez installer les paquets suivants.**1
 
@@ -69,7 +76,7 @@ Si vous êtes **une version 32 bits d'Ubuntu**, **vous devez installer les paque
 sudo apt-get install postfix curl wget file bzip2 gzip unzip bsdmainutils python util-linux ca-certificates tmux libstdc++6
 ```
 
-**2.2 - Installation des paquets sous Debian**
+#### **2.2 - Installation des paquets sous Debian**
 
 Si vous êtes sur **une version 64 bits de Debian**, **vous devez installer les paquets suivants.**1
 
@@ -95,7 +102,7 @@ Si vous êtes **une version 32 bits de Debian**, **vous devez installer les paqu
   apt-get install sudo binutils postfix curl wget file bzip2 gzip unzip bsdmainutils python util-linux ca-certificates tmux libstdc++6
 ```
 
-**2.3 - Installation des paquets sous CentOS**
+#### **2.3 - Installation des paquets sous CentOS**
 
 Si vous êtes sur **une version 64 bits de CentOS**, **vous devez installer les paquets suivants.**1
 
@@ -109,7 +116,7 @@ Si vous êtes **une version 32 bits de CentOS**, **vous devez installer les paqu
 yum install postfix curl wget bzip2 gzip unzip python tmux libstdc++
 ```
 
-**3 - Installation du serveur MySQL ou MariaDB**
+### **3 - Installation du serveur MySQL ou MariaDB**
 
 Nous allons installer lors de ce chapitre, **MariaDB** qui est un remplacement de **MySQL**.  
 Nous vous laissons ainsi le choix d'utiliser **MariaDB** ou **MySQL** pour des raisons de préférences personnelles.  
@@ -160,7 +167,7 @@ sudo add-apt-repository 'deb [arch=amd64,i386] http://ftp.igh.cnrs.fr/pub/mariad
 
 Dans le cas où votre serveur est sous **CentOS 7**, **vous n'avez strictement rien à faire**, vous pouvez directement installer **MariaDB.**
 
-**3.2 Installation de MySQL**
+#### **3.2 Installation de MySQL**
 
 **Nous devons AVANT TOUT mettre à jour notre serveurs et la liste de nos dépôts via ces commandes :**
 
@@ -185,9 +192,11 @@ sudo yum install MariaDB-server MariaDB-client
 Lors de l'installation, **vous devez OBLIGATOIREMENT entrer un mot de passe pour l'utilisateur "root" !**  
 V**ous devrez vous en souvenir pour la prochaine étape, alors gardez-le bien précieusement !**
 
-![](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/DPAaMu41RTrkVUh3-image-1503735255179.png)
+![](../.gitbook/assets/dpaamu41rtrkvuh3-image-1503735255179.png)
 
-**3.2 Installation d'un serveur web**
+\*\*\*\*
+
+### **3.2 Installation d'un serveur web**
 
 Dans ce chapitre, nous allons installer Apache 2 qui sera nécessaire durant la suite du guide, cependant, vous êtes libre d'adapter cette partie de vos propres moyens en installant Nginx, OpenLitespeed ou n'importe quel autre serveur web
 
@@ -243,8 +252,6 @@ apt install -y --no-install-recommends php7.1 libapache2-mod-php7.1 php7.1-mysql
 
 ## 3 - Installation du Serveur Arma 3 <a id="bkmrk-page-title"></a>
 
-**Installation du serveur Arma 3**
-
 1 - Nous allons créer l'user qui gérera notre serveur arma 3, pour ma part se sera : `arma3`1
 
 ```text
@@ -288,6 +295,8 @@ On prépare le fichier d’installation ;1
 ```text
 ./arma3server install
 ```
+
+\*\*\*\*
 
 **Pour la faciliter connectez vous avec FileZilla :**   
 En `hôte` , **renseignez** l'IP de votre serveur, en `Identifiant` **renseignez** votre user `arma3` crée sur votre machine et en mot de passe, **renseignez** le mot de passe saisi pour l'user `arma3` En port, mettez `22` \(qui est le port SSH par défaut\)
@@ -360,7 +369,7 @@ Une fois fait,  saisissez le mot de passe du Serveur SQL, que vous avez défini 
 
 Si tout s'est bien passé, vous devriez avoir quelque chose comme ça :
 
-[![0HnbMVSWmZ1qBuuT-d7089e11316877d6c893e28595f04669.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/0HnbMVSWmZ1qBuuT-d7089e11316877d6c893e28595f04669.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/0HnbMVSWmZ1qBuuT-d7089e11316877d6c893e28595f04669.png)
+![](../.gitbook/assets/0hnbmvswmz1qbuut-d7089e11316877d6c893e28595f04669.png)
 
 10 - Nous allons maintenant créer un nouvel utilisateur SQL, que nous allons appeler `arma3` en tapant :1
 
@@ -390,7 +399,7 @@ nano /etc/mysql/my.cnf
 
 Si tout s'est bien déroulé, vous devriez avoir ce message de confirmation :
 
-[![KmAj2OMx9072QxNL-89b83b8858c9b50bf1c877b2ee195445.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/KmAj2OMx9072QxNL-89b83b8858c9b50bf1c877b2ee195445.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/KmAj2OMx9072QxNL-89b83b8858c9b50bf1c877b2ee195445.png)
+![](../.gitbook/assets/kmaj2omx9072qxnl-89b83b8858c9b50bf1c877b2ee195445.png)
 
 Votre serveur SQL est maintenant accessible à distance.
 
@@ -400,9 +409,7 @@ Votre serveur SQL est maintenant accessible à distance.
 
 Une fois avoir exécuté et installé le logiciel, vous devriez avoir cette interface sous vos yeux : 
 
-[![U7NOIRFcDf2XgZCs-55ce1a49ff53c83f10b0f8f94edbfe6f.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/U7NOIRFcDf2XgZCs-55ce1a49ff53c83f10b0f8f94edbfe6f.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/U7NOIRFcDf2XgZCs-55ce1a49ff53c83f10b0f8f94edbfe6f.png)  
-  
-
+![](../.gitbook/assets/u7noirfcdf2xgzcs-55ce1a49ff53c83f10b0f8f94edbfe6f.png)
 
 **Saisissez** alors les informations de connexion de votre serveur, à savoir :
 
@@ -417,7 +424,7 @@ Si la connexion échoue, assurez-vous d'avoir correctement suivi les étapes pr�
 
 14 - Une fois la connexion réussie, vous serez devant cette interface : 
 
-[![hnKYB7SiveyVrSrE-c072fd7f01584ea49acb54da779a87da.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/hnKYB7SiveyVrSrE-c072fd7f01584ea49acb54da779a87da.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/hnKYB7SiveyVrSrE-c072fd7f01584ea49acb54da779a87da.png)
+
 
 Suivez alors ces étapes pour importer la base de données :
 
@@ -446,13 +453,13 @@ GRANT ALL PRIVILEGES ON altislife.* TO 'arma3'@'%';
 
 17 - **Sélectionnez** tout vos mods, puis faites un clic droit 'Droit d’accès au fichier' puis remplissez le comme ceci :
 
-![text alternatif](https://i.gyazo.com/e33d41d0cd86cd1d604c9b048c8848d5.png)
+![](../.gitbook/assets/e33d41d0cd86cd1d604c9b048c8848d5.png)
 
 18 - **Mettez** votre mission en .pbo dans le dossier `mpMissions`, puis les configs de vos servers se trouvent dans le dossier `cfg`
 
 19 - **Allez** dans votre dossier `@extDB3` puis **éditez** le fichier _extDB3-conf.ini_ :
 
-![text alternatif](https://i.gyazo.com/1d4ec667df70266bd527335ada2dac27.png)
+![](../.gitbook/assets/1d4ec667df70266bd527335ada2dac27.png)
 
 20 - **Remplacez** "passdb" par le mot de passe d'accès de votre user arma3.
 
