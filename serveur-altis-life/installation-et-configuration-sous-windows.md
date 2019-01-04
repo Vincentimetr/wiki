@@ -139,7 +139,7 @@ Dans `Utilisateur`, laissez `root`, puis **définissez** un mot de passe, puis f
 
 Comme vous avez remarqué, vous devrez changer **MOT\_DE\_PASSE** par votre mot de passe.
 
-**Configuration de extDB2 / extDB3**
+#### **Configuration de extDB2 / extDB3**
 
 1. **Téléchargez** la version de extDB qui vous convient le mieux : 
 
@@ -246,7 +246,7 @@ Après ça, vous allez vous rendre dans le dossier `C:\arma3_serveur\mpmissions`
 
 Ensuite, vous allez dézipper le contenu du fichier **BEFilters.zip** dans le dossier `C:\arma3_serveur\battleye`.
 
-Après avoir fait tout cela, vous allez suivre la partie du tutoriel qui est présente [ici ](https://wiki.altisdev.com/link/7#bkmrk-configuration-de-ext)
+Après avoir fait tout cela, vous allez suivre la partie du tutoriel qui est présente [ici ](https://docs.altisdev.com/wiki/serveur-altis-life/installation-et-configuration-sous-windows#demarrage-gestion-sql-et-installation-du-schema-altislife-sql)
 
 Puis, pour finir, vous allez ouvrir l'archive **extDB2-71.7zip**, puis ouvrir le dossier Windows, et **copier le dossier @extDB2 et le fichier tbbmalloc.dll dans votre dossier C:\arma3\_serveur.** C'est important.
 
