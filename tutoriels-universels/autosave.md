@@ -12,7 +12,9 @@ Aucun aperçu n'est disponible car ce script est un script dit "backend" \(c'est
 
 **Eléments à télécharger**
 
-Vous devez télécharger l'archive 7z  `autosave.7z`.
+Vous devez télécharger l'archive 7z  `autosave.7z`:
+
+{% file src="../.gitbook/assets/autosave.7z" %}
 
 ## 2- Installation et configuration <a id="bkmrk-page-title"></a>
 
@@ -28,7 +30,7 @@ Vous devez télécharger l'archive 7z  `autosave.7z`.
 Attention si vous avez déjà un autosave veuillez a bien le supprimer
 {% endhint %}
 
-Tout d'abords vous devez extraire l'archive `autosave.7z` que vous avez obtenu.
+Tout d'abord vous devez extraire l'archive `autosave.7z` que vous avez obtenu.
 
 Ensuite vous devez placé le dossier obtenu dans `Altis_Life.Altis`.  
 
