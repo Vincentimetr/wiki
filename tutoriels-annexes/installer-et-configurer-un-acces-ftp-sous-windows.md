@@ -8,15 +8,15 @@
 
 2- **Acceptez** les conditions d'utilisation, puis, dans la rubrique "Choisissez les composants", **configurez** de la façon suivante : 
 
-[![oxDzMuW4ZEmNlEBc-2.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/oxDzMuW4ZEmNlEBc-2.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/oxDzMuW4ZEmNlEBc-2.png)
+![](../.gitbook/assets/oxdzmuw4zemnlebc-2.png)
 
 3- Une fois avoir choisi l'emplacement d'installation de File Zilla, vous devez choisir comment File Zilla sera démarré. Pour se faire, suivez l'exemple ci-dessous : 
 
-[![DjkEpj25uUdt2kRH-5.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/DjkEpj25uUdt2kRH-5.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/DjkEpj25uUdt2kRH-5.png)
+![](../.gitbook/assets/djkepj25uudt2krh-5.png)
 
 4- Suivez maintenant les étapes, sans modifier les paramètres, et laissez File Zilla s'installer comme ci-dessous.
 
-[![SiC3yTqtALrA9LzU-8.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/SiC3yTqtALrA9LzU-8.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/SiC3yTqtALrA9LzU-8.png)
+![](../.gitbook/assets/sic3ytqtalra9lzu-8.png)
 
 ## 2- Configuration du serveur FTP <a id="bkmrk-page-title"></a>
 
@@ -24,7 +24,7 @@
 
 1- Une fois avoir installé File Zilla Server, **ouvrez le**. Une fenêtre va apparaître : 
 
-[![zfIACjVoHadQUVR7-9.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/zfIACjVoHadQUVR7-9.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/zfIACjVoHadQUVR7-9.png)
+![](../.gitbook/assets/zfiacjvohadquvr7-9.png)
 
 Cette fenêtre va permettre de se connecter au serveur FTP \(qui est donc en local\). Les informations concernant le serveur FTP sur lequel nous voulons nous connecter sont les suivantes : 
 
@@ -43,13 +43,13 @@ Une fois toutes ces informations passées en revue, vous pouvez cliquer sur `Con
   
 2- Maintenant que nous avons installé correctement File Zilla Server, si tout s'est bien passé, vous devriez vous trouvez face à cette interface : 
 
-[![6ZmRm7ph35xMYjBI-a197e62840ecb2ae93cfaa9641a4faa2.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/6ZmRm7ph35xMYjBI-a197e62840ecb2ae93cfaa9641a4faa2.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/6ZmRm7ph35xMYjBI-a197e62840ecb2ae93cfaa9641a4faa2.png)
+![](../.gitbook/assets/6zmrm7ph35xmyjbi-a197e62840ecb2ae93cfaa9641a4faa2.png)
 
 Cette interface va vous permettre de gérer simplement votre serveur. 
 
 Si vous rencontrez des erreurs dans les logs, comme "Connection to server closed", il est possible que le service permettant au serveur de fonctionner ne se soit pas lancer correctement. Pour le lancer manuellement, il vous suffit de cliquer sur le raccourci qui se situe dans le menu `Démarrer > Programmes`  puis **sélectionnez** File Zilla Server, puis Démarrer File Zilla Server. Cette méthode va permettre de lancer manuellement le service permettant au serveur de tourner. Pour se faire, **effectuez** un clic-droit ****sur le Poste de Travail puis `Gérer`. Une fois fait, la fenêtre de gestion de l'ordinateur s'affiche. **Sélectionnez** alors `Services et applications` puis `Services`. Cherchez dans la liste des services "FileZilla Server FTP server", **assurez-vous** de son état "Démarré", et si ce n'est pas le cas, **faites** un clic-droit sur le service, puis `Démarrer`.   \(voir ci-dessous\)
 
-[![ji2xTDLllVjJaUs2-c8b3187b7b2ca1cea7271bd24b03627d.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/ji2xTDLllVjJaUs2-c8b3187b7b2ca1cea7271bd24b03627d.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/ji2xTDLllVjJaUs2-c8b3187b7b2ca1cea7271bd24b03627d.png)
+![](../.gitbook/assets/ji2xtdlllvjjaus2-c8b3187b7b2ca1cea7271bd24b03627d.png)
 
 **Application des paramètres globaux**
 
@@ -57,17 +57,17 @@ Si vous rencontrez des erreurs dans les logs, comme "Connection to server closed
 
 4- **Assurez-vous** maintenant que dans "Paramètres Généraux", vous ayez les mêmes paramètres que ci-dessous. Vous pouvez modifier si vous le souhaitez le `Max. number of users` par sécurité, qui permet de brider le nombre de connexions simultanés sur votre serveur FTP. 
 
-[![FZ3tZ9BM6gKj60KC-2a8e881bc22b636e595dbe146335535c.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/FZ3tZ9BM6gKj60KC-2a8e881bc22b636e595dbe146335535c.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/FZ3tZ9BM6gKj60KC-2a8e881bc22b636e595dbe146335535c.png)
+![](../.gitbook/assets/fz3tz9bm6gkj60kc-2a8e881bc22b636e595dbe146335535c.png)
 
 5- Maintenant, il vous faut créer un compte utilisateur, qui va pouvoir se connecter à un répertoire précis de votre serveur, en lui donnant toutes les principales permissions. Pour se faire, **rendez-vous** dans `Edit > Users` ou `Modifier > Utilisateurs (si vous êtes en français)` puis, allez dans la page `General`, une fois fait, cliquez sur `Add` puis configurez un nom d'utilisateur.
 
-[![MekOZYmpWbVL5QtA-845e3946ac37fca811f85f5ba7470b5c.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/MekOZYmpWbVL5QtA-845e3946ac37fca811f85f5ba7470b5c.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/MekOZYmpWbVL5QtA-845e3946ac37fca811f85f5ba7470b5c.png)
+![](../.gitbook/assets/mekozympwbvl5qta-845e3946ac37fca811f85f5ba7470b5c.png)
 
 6- Une fois le nom d'utilisateur défini, il faut maintenant lui donner un mot de passe, pour ça, **cochez** les cases `Enable account`et `Password` puis **saisissez** votre mot de passe. Laissez le `Group membership` à **&lt;none&gt;** 
 
 7- Une fois l'utilisateur crée, il faut maintenant définir le répertoire auquel cet utilisateur. Pour ça, allez dans la page `Shared folders`.
 
-[![FDNKJEcTDu8u0cLt-0db8617bdae611519d7014190971a6f6.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/FDNKJEcTDu8u0cLt-0db8617bdae611519d7014190971a6f6.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/FDNKJEcTDu8u0cLt-0db8617bdae611519d7014190971a6f6.png)
+![](../.gitbook/assets/fdnkjectdu8u0clt-0db8617bdae611519d7014190971a6f6.png)
 
 De là, vous pouvez voir au centre de la fenêtre qu'un chemin d'accès est déjà défini par défaut chez moi, qui est `C:\serv_test`. **Cliquez** donc maintenant sur `Add`, puis **sélectionnez** le dossier auquel l'utilisateur aura accès à distance, et une fois fait, validez en cliquant sur **Ok**. 
 
@@ -93,7 +93,9 @@ De là, vous pouvez voir au centre de la fenêtre qu'un chemin d'accès est déj
 | `List` | Droit d'afficher les dossiers/ existants  | Permet de voir les dossiers existants dans le répertoire courant |
 | `+ Subdirs`  | Droit de création de sous-dossiers | Permet de créer des sous-dossiers dans des dossiers existants  |
 
-Une fois vos permissions appliquées, validez les changements, puis **assurez-vous** que le serveur a bien pris en compte les permissions récemment mises en place, en observant ce message de confirmation dans la console : 1
+Une fois vos permissions appliquées, validez les changements, puis **assurez-vous** que le serveur a bien pris en compte les permissions récemment mises en place, en observant ce message de confirmation dans la console : 
+
+1
 
 ```text
 Retrieving settings, please wait...
@@ -105,6 +107,8 @@ Retrieving settings, please wait...
 Done retrieving settings
 ```
 
+\*\*\*\*
+
 **Rendre le serveur "distant"**
 
 Maintenant que notre serveur FTP est fonctionnel en local, il faut le rendre accessible à distance, ce qui est tout de même l'objectif final. En d'autres termes : rendre votre serveur distant.
@@ -113,7 +117,7 @@ Maintenant que notre serveur FTP est fonctionnel en local, il faut le rendre acc
 
 10- **Allez** dans la rubrique `Passive Mode`, puis, **configurez** les paramètres comme ci-dessous :
 
-[![UPyKiN46DatuDR56-873e67e3a40afe41f46c5678d602ca3b.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/UPyKiN46DatuDR56-873e67e3a40afe41f46c5678d602ca3b.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/UPyKiN46DatuDR56-873e67e3a40afe41f46c5678d602ca3b.png)
+![](../.gitbook/assets/upykin46datudr56-873e67e3a40afe41f46c5678d602ca3b.png)
 
 11- **Démarrez** maintenant votre `Gestionnaire de serveur`, puis allez dans `Outils > Pare-feu Windows avec fonctions avancées de sécurité` 
 
@@ -129,7 +133,7 @@ Suivez maintenant les étapes suivantes, pour définir une nouvelle règle de pa
 
 Vous venez de définir une règle de pare-feu sur le port 21. Autrement dit : Le port 21 est maintenant "ouvert" pour l'application File Zilla.
 
-13- Répétez maintenant les mêmes étapes qu'à [l'étape 12](https://wiki.altisdev.com/link/10#bkmrk-12--vous-voil%C3%A0-main), en remplaçant le port 21 par la plage de port **211-215** \(saisissez bien la plage, en incluant le tiret, c'est important pour que le pare-feu comprenne que c'est une plage de ports, et pas un port unique\)  
+13- Répétez maintenant les mêmes étapes qu'à l'étape 12, en remplaçant le port 21 par la plage de port **211-215** \(saisissez bien la plage, en incluant le tiret, c'est important pour que le pare-feu comprenne que c'est une plage de ports, et pas un port unique\)  
 
 14- A partir là, votre serveur FTP devrait être accessible à distance. Si ce n'est pas le cas, **vérifiez** que vos règles de ports sont bien configurées en `TCP`, et en `UDP`.
 

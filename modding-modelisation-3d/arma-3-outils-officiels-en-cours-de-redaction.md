@@ -3,9 +3,9 @@
 ## Arma 3 Outils Officiels \(En cours de rédaction\)
 
 Cette catégorie contient des outils officiels créés par la Bohemia Interactive. Bohemia Interactive fournit ces outils à la communauté sous les termes qui permet l'utilisation gratuite des outils pour n'importe quel buts sauf commerciaux. N'importe quelle utilisation commerciale des outils est strictement interdite sans permission de BI.  
-Vous devez être d'accord avec les termes de Contrat de licence d'Utilisateur final pour les Outils de BI avant l'utilisation de n'importe lequel des outils. https://community.bistudio.com/wiki/End\_User\_License\_Agreement\_for\_BI%27s\_Tools  
+Vous devez être d'accord avec les termes de Contrat de licence d'Utilisateur final pour les Outils de BI avant l'utilisation de n'importe lequel des outils. [https://community.bistudio.com/wiki/End\_User\_License\_Agreement\_for\_BI%27s\_Tools](https://community.bistudio.com/wiki/End_User_License_Agreement_for_BI%27s_Tools)  
   
-Les outils sont disponible gratuitement dans le magasin Steam. http://store.steampowered.com/app/233800/
+Les outils sont disponible gratuitement dans le magasin Steam. [http://store.steampowered.com/app/233800/](http://store.steampowered.com/app/233800/)
 
 
 

@@ -1,8 +1,10 @@
 # Obtenir ses logs
 
-## Comment obtenir ses logs <a id="bkmrk-page-title"></a>
+## Comment obtenir ses logs
 
-#### CLIENT <a id="bkmrk-client"></a>
+### 
+
+### CLIENT
 
 Tout simplement, appuyez sur `Windows + R`, et tapez ceci : **%localappdata%\Arma 3**
 
@@ -11,9 +13,13 @@ Vous prenez le dernier fichier qui devrait ressembler à ça :
 **arma3\_2016-07-27\_19-52-10.rpt**
 
   
-Ensuite vous copiez l’intégralité du fichier, et vous allez tout de suite uploader ça sur [paste.altisdev.com](https://paste.altisdev.com/) !
+Ensuite vous copiez l’intégralité du fichier, et vous allez tout de suite uploader ça sur [hastebin](https://hastebin.com) !
 
-#### SERVEUR <a id="bkmrk-serveur"></a>
+
+
+## 
+
+### SERVEUR
 
 **SANS TADST**
 
@@ -21,15 +27,15 @@ Faites un WINDOWS + R puis saisissez `%localappdata%\Arma 3`
 
 Vous prenez le dernier fichier qui devrait ressembler à ça  
 **arma3server\_2016-12-19\_15-07-58.rpt**  
-On copie le tout et on envoie sur [paste.altisdev.com](https://paste.altisdev.com/) !
+On copie le tout et on envoie sur [hastebin](https://hastebin.com) !
 
 **AVEC TADST**
 
-Dans votre dossier TADST, vous sélectionnez votre profil utilisé, vous prenez le dernier RPT en date, et vous copiez le tout sur [paste.altisdev.com](https://paste.altisdev.com/) !
+Dans votre dossier TADST, vous sélectionnez votre profil utilisé, vous prenez le dernier RPT en date, et vous copiez le tout sur [hastebin](https://hastebin.com) !
 
 #### EXTDB <a id="bkmrk-extdb"></a>
 
 Vous allez là où votre serveur se trouve \(je parle de l’exécutable, pas de votre mission\) et vous allez dans votre dossier @extDB2 ou extDB3 \(selon votre version\), puis dans votre dossier logs, puis dans le dossier correspondant à l’année, au mois, au jour et vous prenez le dernier RPT en date.
 
-On copie et on envoie sur [paste.altisdev.com](https://paste.altisdev.com/) !
+On copie et on envoie sur [hastebin](https://hastebin.com) !
 

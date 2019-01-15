@@ -16,15 +16,13 @@ A vous les joies des reboot !
 
 **Télécharger le fichier**
 
-Télécharger Manager pour :
+Télécharger Manager adapté à votre système d'exploitation ici : 
 
-[Windows](https://mega.nz/#!IehCSCrT!KTpM8m4jei1pJUPKiafT75LIxVebdoXgy_9jcX3w268)
+[https://drive.google.com/open?id=114b6L2PlepzMbImXy4s7Syjp0uN\_JBKC](https://drive.google.com/open?id=114b6L2PlepzMbImXy4s7Syjp0uN_JBKC)
 
-[macOS](https://mega.nz/#!xPo0CTQB!fSaGFWrmSl8FR-joej78MVvdZJ02y3bpf1kZBhvhIYI)
-
-[Linux](https://mega.nz/#!4bp2VbJQ!lVYWCi1dlHG0TelRZx1zZK-HR6zdBx_lcJxa58zgI8I)
-
+{% hint style="warning" %}
 Le fichier est une archive .7z que vous devrez désarchiver.
+{% endhint %}
 
 L'opération est faisable :
 
