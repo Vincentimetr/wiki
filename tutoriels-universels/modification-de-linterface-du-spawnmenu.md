@@ -2,17 +2,19 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce tutoriel vous permettra d'avoir une nouvelle interface de connexion à votre serveur. Cette interface est visible lors du choix de la ville d'apparition, lors de la connexion du joueur. 
 
 Crédits de l'auteur : [Repentz ](https://www.altisliferpg.com/profile/601-repentz/)
 
-**Aperçu du résultat une fois implanté**
+### **Aperçu du résultat une fois implanté**
 
-[![NpHsUEF8bIwjOAkV-1503946085-arma-3-screenshot-2017-08-28-20-46-35-33.png](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/NpHsUEF8bIwjOAkV-1503946085-arma-3-screenshot-2017-08-28-20-46-35-33.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/NpHsUEF8bIwjOAkV-1503946085-arma-3-screenshot-2017-08-28-20-46-35-33.png)
+![](../.gitbook/assets/nphsuef8biwjoakv-1503946085-arma-3-screenshot-2017-08-28-20-46-35-33.png)
 
-**Textures complémentaires à télécharger**
+### **Textures complémentaires à télécharger**
+
+{% file src="../.gitbook/assets/ressources\_spawnmenu.rar" %}
 
 Vous devez maintenant **télécharger** les textures \(_Ressources\_SpawnMenu.rar_\) à mettre dans :
 
@@ -27,13 +29,13 @@ Temps requis : **2 minutes**
 
 ## 2- Installation <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `/mpmissions/Altis_Life.Altis/dialog/`**`spawnSelection.hpp`**
 * `/mpmissions/Altis_Life.Altis/textures/`**`background.jpg`**
 * `/mpmissions/Altis_Life.Altis/textures/`**`spawn_interface.paa`**
 
-**Mise en place**
+### **Mise en place**
 
 1- **Allez** dans `/mpmissions/Altis_Life.Altis/dialog/`**`spawnSelection.hpp`**, puis remplacez le contenu de votre fichier par : 
 
@@ -153,9 +155,5 @@ class life_spawn_selection
 
 2- **Décompressez** l'archive _Ressources\_SpawnMenu.rar_ téléchargée à la page précédente dans le dossier `textures` de votre mission : `mpmissions/Altis_Life.Altis/`**`textures`**
 
-**Accès aux problèmes récurrents**
 
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.  
-
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
 

@@ -2,7 +2,7 @@
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce script permet d'ajouter en jeu un trafic aérien géré par les bots d'Arma.
 
@@ -10,15 +10,15 @@ Parfaitement optimisé, ce script ne crée pas de perte de performance, de messa
 
 Le script est facile à installer et paramétrable.
 
-**Aperçu du résultat une fois implanté**
+### **Aperçu du résultat une fois implanté**
 
-[![eJ9X9oXIzyj6jJVa-107410\_screenshots\_20170823195932\_1.jpg](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/eJ9X9oXIzyj6jJVa-107410_screenshots_20170823195932_1.jpg)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/eJ9X9oXIzyj6jJVa-107410_screenshots_20170823195932_1.jpg)
+![](../.gitbook/assets/ej9x9oxizyj6jjva-107410_screenshots_20170823195932_1.jpg)
 
- [![ap4DHyG9jCqjzOdz-107410\_screenshots\_20170823200201\_1.jpg](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/ap4DHyG9jCqjzOdz-107410_screenshots_20170823200201_1.jpg)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/ap4DHyG9jCqjzOdz-107410_screenshots_20170823200201_1.jpg)
+![](../.gitbook/assets/ap4dhyg9jcqjzodz-107410_screenshots_20170823200201_1.jpg)
 
- [![gRlnJOy9ndwqAKn0-107410\_screenshots\_20170823200146\_1.jpg](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/gRlnJOy9ndwqAKn0-107410_screenshots_20170823200146_1.jpg)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/gRlnJOy9ndwqAKn0-107410_screenshots_20170823200146_1.jpg)
+![](../.gitbook/assets/grlnjoy9ndwqakn0-107410_screenshots_20170823200146_1.jpg)
 
-**Éléments à télécharger**
+### **Éléments à télécharger**
 
 Vous devez maintenant **télécharger** le script \(_Init\_Avion\_Ligne.sqf_\) à mettre dans
 
@@ -32,12 +32,12 @@ Temps requis : 3 **minutes**
 
 ## 2- Installation et configuration <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `Altis_Life.Altis\`**`init.sqf`**
 * `Altis_Life.Altis\Init\`**`Init_Avion_Ligne.sqf`**
 
-**Mise en place**
+### **Mise en place**
 
 1- **Téléchargez** le fichier `Init_Avion_Ligne.sqf` accessible en pièce jointe.
 
@@ -49,7 +49,7 @@ Temps requis : 3 **minutes**
 execVM "Init\Init_Avion_Ligne.sqf";
 ```
 
-**Configuration**
+### **Configuration**
 
 1- **Modifier** les types de véhicules aériens  
 
@@ -113,12 +113,6 @@ Modifiez la valeur après le "="1
 ```text
 _altitude_apparition=1000; //(en secondes)
 ```
-
-**Accès aux problèmes récurrents**
-
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.  
-
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
 
 ## 3- Problèmes récurrents <a id="bkmrk-page-title"></a>
 

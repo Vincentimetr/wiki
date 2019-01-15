@@ -2,23 +2,25 @@
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce script permet de lancer un feu d'artifice d'environ 10 minutes dans un lieu a une plage horaire fixée
 
 Totalement paramétrable et optimisé de façon a ce qu'il soit compatible avec n'importe quel serveur.
 
-**Aperçu du résultat une fois implanté**
+### **Aperçu du résultat une fois implanté**
 
 _Paramétrage par défaut:_
 
-![](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/UDiCWpnl6KdAem3r-image-1503512016448.png)
+![](../.gitbook/assets/udicwpnl6kdaem3r-image-1503512016448.png)
 
  _Paramétrage optimisé:_
 
-[![M328IC7j4rlrUqZx-107410\_screenshots\_20170710161801\_1.jpg](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/M328IC7j4rlrUqZx-107410_screenshots_20170710161801_1.jpg)](https://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/M328IC7j4rlrUqZx-107410_screenshots_20170710161801_1.jpg)
+![](../.gitbook/assets/m328ic7j4rlruqzx-107410_screenshots_20170710161801_1.jpg)
 
-**Éléments à télécharger**
+\_\_
+
+### **Éléments à télécharger**
 
 Vous devez maintenant **télécharger** les scripts :
 
@@ -37,13 +39,13 @@ Temps requis : 10 **minutes**
 
 ## 2- Installation et configuration <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `Altis_Life.Altis\`**`init.sqf`**
 * `Altis_Life.Altis\Effets\`**`Effet_Artifice.sqf`**
 * `Altis_Life.Altis\Init\`**`Init_Feu_Artifice.sqf`**
 
-**Mise en place**
+### **Mise en place**
 
 1- **Placer** un ou plusieurs héliports invisibles a l'emplacement du feu d'artifice \(Exemple: Chateau de Kavala\)
 
@@ -59,7 +61,7 @@ Temps requis : 10 **minutes**
 execVM "Init\Init_Feu_Artifice.sqf";
 ```
 
-**Configuration**
+### **Configuration**
 
 {% hint style="danger" %}
  Attention !!! La configuration est susceptible de changer totalement l’esthétisme et les performances!!!
@@ -196,7 +198,7 @@ _temps_fumee=2.5; //Temps de déclenchement des fumées (en secondes)
 
 ## 3- Problèmes récurrents <a id="bkmrk-page-title"></a>
 
-**Solutions possibles pour les problèmes récurrents**
+### **Solutions possibles pour les problèmes récurrents**
 
 * **Erreur \#1** : La baisse de FPS est trop importante pour les joueurs
 

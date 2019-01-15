@@ -2,7 +2,7 @@
 
 ## 1- Présentation <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
  Ce tutoriel a pour but de permettre l installation d'un centre de contrôle pour la gendarmerie afin d'avoir le visuel sur les caméra qui seront installées sur l'île mais également sur les gopros que possèderons les policiers.
 
@@ -10,19 +10,25 @@
 Le système de "RenderToTexture" n'est pas de mon développement! Je n'est fait que adapter ce script pour du altis-life, ajouter le système de caméra et simplifier la mise en place du système!
 {% endhint %}
 
-**Aperçu du résultat une fois implanté**
+### **Aperçu du résultat une fois implanté**
 
- [![qgr90Iasv50rxXuW-4.jpg](https://wiki.altisdev.com/uploads/images/gallery/2017-09-Sep/scaled-840-0/qgr90Iasv50rxXuW-4.jpg)](https://wiki.altisdev.com/uploads/images/gallery/2017-09-Sep/qgr90Iasv50rxXuW-4.jpg)
+![](../.gitbook/assets/qgr90iasv50rxxuw-4.jpg)
 
-**Éléments à télécharger**
+### **Éléments à télécharger**
 
 Vous devez maintenant **télécharger** les scripts suivants:
 
-* [`Init_Gopro.sqf`](https://wiki.altisdev.com/attachments/41)
-* [`Direct_gopro.sqf`](https://wiki.altisdev.com/attachments/42)
-* [`standby_sat.jpg`](https://wiki.altisdev.com/attachments/44)
-* [`standby.jpg`](https://wiki.altisdev.com/attachments/45)
-* [`Traitement_gopro.sqf`](https://wiki.altisdev.com/attachments/46)
+{% file src="../.gitbook/assets/init\_gopro \(1\).sqf" %}
+
+{% file src="../.gitbook/assets/direct\_gopro \(1\).sqf" %}
+
+{% file src="../.gitbook/assets/standby\_sat.jpg" %}
+
+{% file src="../.gitbook/assets/standby.jpg" %}
+
+{% file src="../.gitbook/assets/traitement\_gopro \(1\).sqf" %}
+
+
 
 {% hint style="info" %}
 Niveau de difficulté : **Moyen**  
@@ -31,7 +37,7 @@ Temps requis : 30 **minutes**
 
 ## 2- Installation <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `Altis_Life.Altis\init.sqf`
 * `Altis_Life.Altis\Scripts\Gopro\Traitement_gopro.sqf`
@@ -40,7 +46,7 @@ Temps requis : 30 **minutes**
 * `Altis_Life.Altis\Scripts\Gopro\standby_sat.jpg`
 * `Altis_Life.Altis\Init\Init_Gopro.sqf`
 
-**Mise en place**
+### **Mise en place**
 
 1- **Vérifiez** que vos policiers se nomment bien `cop_X` avec X allant de 1 à N et sans interruptions.
 
@@ -88,9 +94,5 @@ execVM "Init\Init_Gopro.sqf";
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-**Accès aux problèmes récurrents**
-
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.
-
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
+\*\*\*\*
 
