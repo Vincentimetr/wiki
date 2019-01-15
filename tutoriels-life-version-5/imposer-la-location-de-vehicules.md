@@ -2,15 +2,17 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce tutoriel va permettre de restreindre les véhicules disponibles pour les policiers / médecins à la location uniquement, et donc rendre inaccessible l'achat définitif d'un véhicule. Cela peut être pratique pour permettre aux fonctionnaires de votre serveur d'avoir des véhicules de fonction, sans pour autant que ces véhicules leur appartiennent.
 
-Crédits : [kovix5519](https://altisdev.com/user/kovix5519)
+Crédits : [kovix5519](https://altisdev.com/u/kovix5519)
 
-**Aperçu du résultat une fois implanté**
+### **Aperçu du résultat une fois implanté**
 
 Aucune aperçu disponible, car non nécessaire pour le tutoriel actuel.
+
+
 
 {% hint style="info" %}
  Niveau de difficulté : **Facile**  
@@ -19,12 +21,14 @@ Temps requis : **3 minutes**
 
 ## 2- Installation <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `Altis_Life.Altis/config/`**`Config_Master.hpp`**
 * `/mpmissions/Altis_Life.Altis/config/`**`Config_Vehicles.hpp`**
 
-**Mise en place**
+\*\*\*\*
+
+### **Mise en place**
 
 1- **Allez** dans `Altis_Life.Altis/config/`**`Config_Master.hpp`** puis **cherchez** : 1
 
@@ -88,9 +92,7 @@ A savoir que `.80` voudrait dire que le civil ne payera que 80% du prix d’acha
     vehicle_rental_multiplier_OPFOR = -1; // -- NOT IN USE -- Simply left in for east support.
 ```
 
-**Accès aux problèmes récurrents**
 
-La page des problèmes récurrents n'est pas fournie avec ce tutoriel,  à cause de sa simplicité.  
 
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** sur notre Forum et de créer un sujet dans l'Aide & Support, ou directement sur notre serveur Discord, également dans les sections d'Aide & Support.
+
 

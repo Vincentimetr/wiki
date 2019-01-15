@@ -2,7 +2,7 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
  Ce tutoriel vous propose de rendre invisible sur la map pour les membres d'un même gang si ils ne possèdent pas de GPS ou si ils sont menottés.
 
@@ -13,13 +13,13 @@ Temps requis : **5 minutes**
 
 ## 2- Mise en place <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
  `Altis_Life.Altis/`**`core/civilian/fn_civMarkers.sqf`**
 
-**Mise en place**
+### **Mise en place**
 
-1- **Remplacez le script actuel par celui-ci:**  
+1- **Remplacez** le script actuel par celui-ci :  
 
 ```c
 private ["_markers", "_members"];

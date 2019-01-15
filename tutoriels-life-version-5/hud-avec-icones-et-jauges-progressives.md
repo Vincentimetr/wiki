@@ -2,22 +2,26 @@
 
 ## 1 - Introduction <a id="bkmrk-page-title"></a>
 
-**But du guide**
+### **But du guide**
 
 Le présent guide va permettre d'intégrer un nouvel HUD avec des jauges progressives et des icônes, ce qui rendra l'affichage plus agréable.
 
 Je tiens à donner les crédits à l'auteur original: [Repentz](https://www.altisliferpg.com/topic/3412-professional-looking-hud/)
 
-**Aperçu du résultat**
+### **Aperçu du résultat**
 
-[![a7P7NyxKP1Nx6uEX-Hud-aper&#xE7;u.png](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/a7P7NyxKP1Nx6uEX-Hud-aper%C3%A7u.png)](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/a7P7NyxKP1Nx6uEX-Hud-aper%C3%A7u.png)
+![](../.gitbook/assets/a7p7nyxkp1nx6uex-hud-apercu.png)
+
+
 
 {% hint style="info" %}
 Niveau de difficulté : **Facile**  
 Temps requis : **2 minutes**
 {% endhint %}
 
-**Textures / éléments complémentaires à télécharger**
+\*\*\*\*
+
+### **Textures / éléments complémentaires à télécharger**
 
 Vous devez maintenant **télécharger** les textures \(HUD.rar\) à mettre dans `Votremission/VindicateAssets/images/textures/HUD`  
 

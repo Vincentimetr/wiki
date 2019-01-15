@@ -2,9 +2,11 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce tutoriel permet d'empêcher au joueur d'utiliser le menu téléphone si il ne possède pas une radio.
+
+
 
 {% hint style="info" %}
 Niveau de difficulté : **Facile**  
@@ -13,11 +15,11 @@ Temps requis : **1 minutes**
 
 ## 2- Mise en place <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés**  
+### **Fichiers concernés**  
 
  `Altis_Life.Altis/`**`dialog/player_inv.hpp`**
 
-**Mise en place**
+### **Mise en place**
 
 1- Dans **`player_inv.hpp`** trouvez le bloc:
 
@@ -47,9 +49,7 @@ class ButtonCell: Life_RscButtonMenu {
 };
 ```
 
-**Accès aux problèmes récurrents**
 
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.
 
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
+
 

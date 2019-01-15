@@ -8,13 +8,13 @@ description: >-
 
 ## 1- Introduction  <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce tutoriel vous permet de gagner 500 Ko sur votre fichier mission et d'avoir plus de visibilité quand vous allez manipuler le stringtable.
 
 Je vais vous guidez pour supprimer ce contenu indésirable qui allègera les joueurs lors du téléchargement de votre mission, empêchera une personne ne parlant pas français de venir jouer sur votre serveur et vous facilitera la manipulation de celui-ci dans le futur.
 
-**Aperçu du résultat une fois implanté**
+### **Aperçu du résultat une fois implanté**
 
 Passer de ceci:
 
@@ -92,13 +92,13 @@ A ceci:
 
 ## 2- Installation  <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés**
+### **Fichiers concernés**
 
 ```text
 stringtable.xml
 ```
 
-**Logiciel nécessaire**
+### **Logiciel nécessaire**
 
 `Notepad++`
 
@@ -108,7 +108,7 @@ Ci-dessous la page internet du site de notepad ++ pour télécharger le logiciel
 [https://notepad-plus-plus.org/download/v7.5.3.html](https://notepad-plus-plus.org/download/v7.5.3.html)
 {% endhint %}
 
-**Mise en place**
+### **Mise en place**
 
 1- **Ouvrez** le stringtable.xml avec Notepad ++
 
@@ -156,9 +156,5 @@ Dans la fenêtre `Recherche`, **mettre** `French`
 
 Dans la fenêtre `Remplacer par`, **mettre** `Original`
 
-**Accès aux problèmes récurrents**
-
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé \_Problèmes Récurrents _\*\*_\_pour trouver une réponse à votre problème.
-
-**Merci à Animos pour le Screenshot.**
+\*\*\*\*
 
