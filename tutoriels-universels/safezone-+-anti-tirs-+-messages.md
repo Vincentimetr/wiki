@@ -23,6 +23,10 @@ Pour les Cops, les tirs en Safe-Zone sont autorisés.
 
 ### **Éléments à télécharger:**
 
+{% file src="../.gitbook/assets/safezone.sqf" %}
+
+Et à placer dans : 
+
  `Altis_life.Altis\scripts\safezone.sqf`
 
 {% hint style="info" %}
