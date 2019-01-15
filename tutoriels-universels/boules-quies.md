@@ -2,7 +2,7 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
   Ce tutoriel vous permet d'améliorer le script de base des boules quies en réglant le volume de 10 % en 10 %
 
@@ -13,7 +13,7 @@ Temps requis : **5 minutes**
 
 ## 2- Mise en place <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `Altis_Life.Altis/`**`function/fn_KeyHandler.sqf`**
 
@@ -40,11 +40,7 @@ Temps requis : **5 minutes**
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-**Accès aux problèmes récurrents**
 
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.
-
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
 
 
 

@@ -2,7 +2,7 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce tutoriel vous permet de cacher certain marqueurs selon les licences des joueurs \(Les joueurs commencent avec aucun marqueur sur la map et au fur et à mesure qu'ils achètent des licences, ces marqueurs apparaissent\).  
 Le programme ne fait aucune sur-interraction avec la base de donnée et donc ne créer aucun lag ou réduction de performance.
@@ -14,13 +14,13 @@ Temps requis : **60 minutes**
 
 ## 2- Installation <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 * `Altis_Life.Altis/core/`**`init.sqf`**
 * `Altis_Life.Altis/`**`core/functions/fn_keyHandler.sqf`**
 * `Altis_Life.Altis/`**`core/functions/fn_actualiseMap.sqf`** \(a créer\)
 
-**Mise en place**
+### **Mise en place**
 
 1- **Allez** dans `Altis_Life.Altis/`**`core/functions/fn_keyHandler.sqf`** jusqu'au bloc :
 
@@ -341,9 +341,5 @@ if (license_civ_terroriste ) then {{_x setMarkerAlphaLocal 1}foreach _marqueurs_
 if (side player == west || side player == resistance) then {{_x setMarkerAlphaLocal 1}foreach _marqueurs_service;};
 ```
 
-**Accès aux problèmes récurrents**
-
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.  
-
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
+\*\*\*\*
 

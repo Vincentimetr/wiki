@@ -1,0 +1,5 @@
+CREATE TABLE `whitelist` (
+  `id` int(255) NOT NULL AUTO_INCREMENT,
+  `uid` varchar(50) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;

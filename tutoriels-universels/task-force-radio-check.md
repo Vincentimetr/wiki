@@ -2,9 +2,9 @@
 
 ## Installation <a id="bkmrk-page-title"></a>
 
-**1.1 Direction : description.ext !**
+**1.1 Direction :** `/description.ext` ****
 
-Rajouter dans la class  : CfgDebriefing
+**Ajouter** dans la classe  : CfgDebriefing
 
 ```text
 class Ts3Server {
@@ -17,9 +17,9 @@ class Ts3Server {
  };
 ```
 
-**1.2 Direction : /core/Configuration.sqf**
+**1.2 Direction :** `/core/Configuration.sqf`
 
-Rajouter c'est  4 variable global :
+**Ajouter** ces  4 variables globales :
 
 ```text
 tsServer = "";
@@ -28,9 +28,9 @@ life_mauvaisTs = false;
 life_mauvaisChan = false;
 ```
 
-1.3 Direction : /core/fn\_survival.sqf  
+1.3 Direction : `/core/fn_survival.sqf`  
 
-Au dessus du UiSleep rajouter :
+Au dessus du `UiSleep`rajouter :
 
 ```text
 tsServer = [] call TFAR_fnc_getTeamSpeakServerName;
@@ -51,13 +51,13 @@ if(tsServer != "Nom du server ts3") then {
  Pensez a modifiée les informations avec les vôtres.
 {% endhint %}
 
-**1.4 Direction : /core/init.sqf**
+**1.4 Direction :** `/core/init.sqf`
 
 Chercher :
 
 `getPlayerUID player,player getVariable ["realname",name player]] remoteExec ["life_fnc_wantedProfUpdate",RSERV];`
 
-Ajouter en dessous :
+**Ajouter** en dessous :
 
 ```text
 [] spawn {
@@ -113,10 +113,6 @@ Ajouter en dessous :
     };
 };
 ```
-
-{% hint style="success" %}
- Hé voila c'est pas plus bête :\)
-{% endhint %}
 
 
 

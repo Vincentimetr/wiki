@@ -14,9 +14,13 @@ J'utilise Extdb3 mais Extdb2 fonctionne tout aussi bien.
 
 Les fichiers à **télécharger** sont:
 
-* [whitelist.sql](https://wiki.altisdev.com/attachments/68)
-* [fn\_whiteList.sqf](https://wiki.altisdev.com/attachments/69)
-* [fn\_whitelistRes.sqf](https://wiki.altisdev.com/attachments/70)
+{% file src="../.gitbook/assets/whitelist \(1\).sql" %}
+
+{% file src="../.gitbook/assets/fn\_whitelist.sqf" %}
+
+{% file src="../.gitbook/assets/fn\_whitelistres \(1\).sqf" %}
+
+
 
 {% hint style="info" %}
 Niveau de difficulté : **Facile**  
@@ -24,6 +28,8 @@ Temps requis : **2-5 minutes**
 {% endhint %}
 
 ## 2. Installation <a id="bkmrk-page-title"></a>
+
+### **Mise en place**
 
 Placer donc les fichiers précédemment téléchargés dans les dossiers ci-dessous:
 
@@ -40,9 +46,9 @@ Les fichiers à modifier \(dans l'ordre\) sont:
 * `Altis_Life.altis\description.ext`
 * `Altis_Life.altis\core\init.sqf`
 
-**Mise en place**
+\*\*\*\*
 
-**Coté serveur**
+### **Coté serveur**
 
 * Allez dans le fichier `\life_server\config.cpp`
 
@@ -78,7 +84,9 @@ Ce qui donnera par exemple:
     };
 ```
 
-**Coté mission**
+### \*\*\*\*
+
+### **Coté mission**
 
 * Allez dans le fichier `Altis_Life.altis\Functions.hpp`
 
@@ -200,7 +208,7 @@ class CfgDebriefing {
 
 * Allez dans le fichier `Altis_Life.altis\core\init.sqf`
 
-**Au dessus** de :1
+**Au dessus** de :
 
 ```text
 [] call SOCK_fnc_dataQuery;
