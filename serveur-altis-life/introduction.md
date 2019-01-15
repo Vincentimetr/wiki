@@ -17,6 +17,7 @@ Voici une liste de bons hébergeurs, plus ou moins chers :
 * [OVH](http://ovh.com/) \(VPS, Serveurs Dédiés, Espaces Web, sous Windows & Linux\)
 * [SoYouStart](https://www.soyoustart.com/fr/) \(Serveurs Dédiés au jeu, sous Windows & Linux\)
 * [Kimsufi](https://www.kimsufi.com/) \(VPS, Serveurs Dédiés, sous Windows & Linux\)
+* 1&1 devenu récemment [Ionis](https://www.ionos.fr/) \(VPS, Serveurs Dédiés, sous Windows & Linux\)
 * [Pulseheberg](https://www.pulseheberg.com/) \(VPS, Serveurs Dédiés et Espaces Web, sous Windows & Linux\)
 * [LiliumHosting](https://liliumnetwork.fr/) \(VPS sous Windows & Linux\)
 

@@ -2,21 +2,29 @@
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
-**But de ce tutoriel**
+### **But de ce tutoriel**
 
 Ce tutoriel va vous permettre de mettre en place une bourse dynamique sur votre serveur. Cette bourse est relativement modifiable, et facile d'utilisation pour le joueur.
 
 Source & Repo Git : [https://github.com/dbenson24/Framework-1/tree/dynamicmarket](https://github.com/dbenson24/Framework-1/tree/dynamicmarket)
 
-Crédits : [FeaReD\_Glock](https://altisdev.com/user/feared_glock)
+Crédits : [FeaReD\_Glock](https://altisdev.com/u/feared_glock/)
 
-**Aperçu du résultat une fois implanté**
 
-[![SLZNRrGZu0qbuWaR-vZEmXr0sSeCwbInYFrdnDA.png](https://wiki.altisdev.com/uploads/images/gallery/2017-09-Sep/scaled-840-0/SLZNRrGZu0qbuWaR-vZEmXr0sSeCwbInYFrdnDA.png)](https://wiki.altisdev.com/uploads/images/gallery/2017-09-Sep/SLZNRrGZu0qbuWaR-vZEmXr0sSeCwbInYFrdnDA.png)
 
-**Éléments complémentaires à télécharger** 
+### **Aperçu du résultat une fois implanté**
 
-Vous devez maintenant **télécharger** l'archive _Bourse.rar_ en fichier joint.
+![](../.gitbook/assets/slznrrgzu0qbuwar-vzemxr0ssecwbinyfrdnda.png)
+
+\*\*\*\*
+
+### **Éléments complémentaires à télécharger** 
+
+Vous devez maintenant **télécharger** l'archive _Bourse.rar_  :
+
+{% file src="../.gitbook/assets/bourse \(1\).rar" %}
+
+
 
 {% hint style="info" %}
 Niveau de difficulté : **Moyen**  
@@ -25,7 +33,7 @@ Temps requis : **10-12 minutes**
 
 ## 2- Installation & Configuration <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 Fichiers et dossiers concernés durant le tutoriel : 
 
@@ -45,7 +53,7 @@ Fichiers et dossiers concernés durant le tutoriel :
 * `/life_server/`**`script_macros.hpp`**
 * `/mpmissions/Altis_Life.Altis/core/economy/`**`fn_updateEconomy.sqf`**
 
-**Mise en place du Altis\_Life.Altis**
+### **Mise en place du Altis\_Life.Altis**
 
 1- **Allez** dans _CfgRemoteExec.hpp_ et ajouter :
 
@@ -114,19 +122,19 @@ D’ailleurs **pensez** aussi à mettre seulement les ressources vendables et ne
     };
 ```
 
-7- Dans _fn\_virt\_sell.sqf_ **supprimez** ou **commentez** :1
+7- Dans _fn\_virt\_sell.sqf_ **supprimez** ou **commentez** :
 
 ```text
 _price = M_CONFIG(getNumber,"VirtualItems",_type,"sellPrice");
 ```
 
-Et **ajoutez** en dessous :1
+Et **ajoutez** en dessous :
 
 ```text
 _price = lbValue[2402,(lbCurSel 2402)];
 ```
 
-8- Puis, après :1
+8- Puis, après :
 
 ```text
 [] call life_fnc_virt_update;
@@ -177,7 +185,7 @@ ctrlSetText[2403,localize (M_CONFIG(getText,"VirtualShops",life_shop_type,"name"
 [0, life_shop_type] spawn life_fnc_retrievePrices;
 ```
 
-10- Dans _MasterHandler.hpp_ **ajoutez** :1
+10- Dans _MasterHandler.hpp_ **ajoutez** :
 
 ```text
 #include "market.hpp"
@@ -352,7 +360,7 @@ Voici comment importer un fichier **.sql** sur :
 
 → Navicat : [http://wiki.navicat.com/fr/index.php/Comment\_puis-je\_importer\_un\_fichier\_SQL\_sur\_le\_serveur\_%3F](http://wiki.navicat.com/fr/index.php/Comment_puis-je_importer_un_fichier_SQL_sur_le_serveur_%3F)
 
-**Mise en place du life\_server**
+### **Mise en place du life\_server**
 
 14- **Créez** un dossier `economy` dans `/mpmissions/Altis_Life.Altis/`**`functions`** puis **ajoutez** les fichiers de l’archive disponible en fichier joint.  
 
@@ -407,13 +415,7 @@ Par
 #define ITEM_FACTOR(varName) M_CONFIG(getNumber,"VirtualItems",varName,"factor")
 ```
 
-18- **Ajoutez** dans _script\_macros.hpp_
-
-```text
-
-```
-
-1
+18- **Ajoutez** dans _script\_macros.hpp_ :
 
 ```text
 #define ITEM_ICON(varName) M_CONFIG(getText,"VirtualItems",varName,"icon")
@@ -423,13 +425,13 @@ Par
 
 Dans l’`array` du `private` **ajoutez** `_icon`
 
-Dans la boucle `forEach life_market`, **ajoutez** sous le dernier `_name` :1
+Dans la boucle `forEach life_market`, **ajoutez** sous le dernier `_name` :
 
 ```text
 _icon = ITEM_ICON((_x select 0));
 ```
 
-Et sous le dernier `_goodlist` :1
+Et sous le dernier `_goodlist` :
 
 ```text
 _goodlist lbSetPicture [(lbSize _goodlist)-1,_icon];
@@ -490,11 +492,15 @@ lbSortByValue _goodlist;
 
 **Petit plus - ajouter des icônes \(Facultatif\)**
 
-Si vous voulez que le marché ressemble à [ceci](https://wiki.altisdev.com/attachments/74)
+Si vous voulez que le marché ressemble à ceci :
+
+![Aper&#xE7;u d&apos;un exemple de march&#xE9;](../.gitbook/assets/cqdczi4frtwpffr17hc_ww.png)
+
+
 
 **Éditez** le fichier : fn\_updateEconomy.sqf qui se trouve dans `/mpmissions/Altis_Life.Altis/core/economy/`**`fn_updateEconomy.sqf`**
 
-dans la boucle `forEach life_market`, **modifiez** :1
+dans la boucle `forEach life_market`, **modifiez** :
 
 ```text
 _goodlist lbAdd format["%1",(localize _name)];
@@ -579,10 +585,4 @@ class Market
 ```
 
 A vous de le modifier à votre guise à partir de là.
-
-**Accès aux problèmes récurrents**
-
-Si vous rencontrez des problèmes avec le tutoriel, **rendez-vous** dans la page suivante intitulé _Problèmes Récurrents ****_pour trouver une réponse à votre problème.  
-
-Merci de consulter les Problèmes Récurrents avant de créer un sujet dans l'Aide & Support de notre Forum.
 

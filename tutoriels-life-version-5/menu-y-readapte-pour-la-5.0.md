@@ -2,30 +2,28 @@
 
 ## 1 - Introduction <a id="bkmrk-page-title"></a>
 
-**But du guide**
+### **But du guide**
 
 Le but de ce guide est d'installer un menu Y propre, efficace et fonctionnel.
 
-Nous allons donc le réadapter ensemble à la 5.0
-
-**Aperçu du résultat**
-
-[![Sg9dqDNFAzfDbrFW-Tablette1.png](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/Sg9dqDNFAzfDbrFW-Tablette1.png)](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/Sg9dqDNFAzfDbrFW-Tablette1.png)[![nl2ZPjMW12QIyaCS-Tablette2.png](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/nl2ZPjMW12QIyaCS-Tablette2.png)](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/nl2ZPjMW12QIyaCS-Tablette2.png)[![JjCISsEGGzOuG0ZD-Tablette3.png](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/scaled-840-0/JjCISsEGGzOuG0ZD-Tablette3.png)](http://wiki.altisdev.com/uploads/images/gallery/2017-08-Aug/JjCISsEGGzOuG0ZD-Tablette3.png)
+Nous allons donc le réadapter ensemble à la 5.
 
 {% hint style="info" %}
 Niveau de difficulté : **Moyen**  
 Temps requis : **10-15 minutes**  
 {% endhint %}
 
-**Textures / éléments complémentaires à télécharger \(facultatif\)**
+\*\*\*\*
+
+### **Textures / éléments complémentaires à télécharger \(facultatif\)**
 
 Vous devez maintenant **télécharger** le fichier _menu.paa_ à mettre dans `/racinedevotremission/textures/` 
 
-\(Texture disponible en fichier joint en haut à droite\)
+{% file src="../.gitbook/assets/menu \(1\).paa" %}
 
 ## 2- Installation <a id="bkmrk-page-title"></a>
 
-**Fichiers concernés** 
+### **Fichiers concernés** 
 
 {% hint style="danger" %}
 Voici la liste des fichiers concernés dans cette partie, veuillez bien vérifier que vous ayez ces fichiers de votre coté.
@@ -38,7 +36,7 @@ Voici la liste des fichiers concernés dans cette partie, veuillez bien vérifie
   * `/dialog/`**`settings.hpp`**
   * `/dialog/`**`wanted_list.hpp`**
 
-**Installation**
+### **Installation**
 
 1- **Allez** dans `/dialog/`**`player_inv.hpp`** puis **insérez** cette class juste avant la class `controls` :
 
@@ -195,7 +193,7 @@ Voici la liste des fichiers concernés dans cette partie, veuillez bien vérifie
 
 ## 3- Problèmes récurrents <a id="bkmrk-page-title"></a>
 
-**Solutions possibles pour les problèmes récurrents**
+### **Solutions possibles pour les problèmes récurrents**
 
 **Erreur \#1** Votre menu s'affiche mal ?
 
@@ -233,7 +231,7 @@ Voici la liste des fichiers concernés dans cette partie, veuillez bien vérifie
 **Solution:** Téléchargez le pack menu et remplacer votre fichier par le fichier _gang.hpp_
 {% endhint %}
 
-Voilà c'est la fin des erreurs éventuelles, n’hésitez pas a communiquez si vous avez trouvé des erreurs autres que celles-ci  ! 
+Voilà c'est la fin des erreurs éventuelles, n’hésitez pas a communiquer sur le Discord ou sur les forums si vous avez trouvé des erreurs autres que celles-ci  ! 
 
 
 
