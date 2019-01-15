@@ -10,11 +10,11 @@ Les panneaux présents dans les Screenshots ne sont pas les panneaux d'origine d
 
 **Aperçu du résultat une fois implanté**
 
-[![JcAiKy3yEWMoZQUG-Placeables2.jpg](http://wiki.altisdev.com/uploads/images/gallery/2017-11-Nov/scaled-840-0/JcAiKy3yEWMoZQUG-Placeables2.jpg)](http://wiki.altisdev.com/uploads/images/gallery/2017-11-Nov/JcAiKy3yEWMoZQUG-Placeables2.jpg)
+![](../.gitbook/assets/jcaiky3yewmozqug-placeables2.jpg)
 
-[![1SbMIhHo1u5lJuYc-Placeables-3.jpg](http://wiki.altisdev.com/uploads/images/gallery/2017-11-Nov/scaled-840-0/1SbMIhHo1u5lJuYc-Placeables-3.jpg)](http://wiki.altisdev.com/uploads/images/gallery/2017-11-Nov/1SbMIhHo1u5lJuYc-Placeables-3.jpg)
+![](../.gitbook/assets/1sbmihho1u5ljuyc-placeables-3.jpg)
 
-[![fU6SF72TfCEyHNX0-Pleaceables-1.jpg](http://wiki.altisdev.com/uploads/images/gallery/2017-11-Nov/scaled-840-0/fU6SF72TfCEyHNX0-Pleaceables-1.jpg)](http://wiki.altisdev.com/uploads/images/gallery/2017-11-Nov/fU6SF72TfCEyHNX0-Pleaceables-1.jpg) 
+![](../.gitbook/assets/fu6sf72tfceyhnx0-pleaceables-1.jpg)
 
 {% hint style="info" %}
 Niveau de difficulté : **Facile**  
@@ -364,6 +364,8 @@ case 46	: {
 {% hint style="success" %}
 **Solution** : C'est peut être que **l’étape 6** de l'installation a été mal effectué, veuillez la recommencer
 {% endhint %}
+
+
 
 {% hint style="info" %}
 Si vous rencontrez un problème n'étant pas répertorié ci-dessus, merci d'en prévenir l'auteur, afin qu'il l'ajoute au plus vite.
