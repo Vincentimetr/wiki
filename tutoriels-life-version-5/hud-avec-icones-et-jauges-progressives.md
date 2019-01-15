@@ -23,9 +23,13 @@ Temps requis : **2 minutes**
 
 ### **Textures / éléments complémentaires à télécharger**
 
-Vous devez maintenant **télécharger** les textures \(HUD.rar\) à mettre dans `Votremission/VindicateAssets/images/textures/HUD`  
+Vous devez maintenant **télécharger** les textures \(HUD.rar\) :
 
-\(Textures en fichiers joints\)
+{% file src="../.gitbook/assets/hud.rar" %}
+
+A mettre dans :
+
+ `Votremission/VindicateAssets/images/textures/HUD`  
 
 ## 2 - Installation <a id="bkmrk-page-title"></a>
 
@@ -118,7 +122,11 @@ class playerHUD {
 };
 ```
 
-2 - À la racine de votre mission `core\functions\fn_HudUpdate.sqf`, **remplacez** par le fichier disponible en fichier joint. 
+2 - À la racine de votre mission `core\functions\fn_HudUpdate.sqf`, **remplacez** par le fichier suivant : 
+
+{% file src="../.gitbook/assets/fn\_hudupdate.sqf" %}
+
+
 
 3 - À la racine de votre mission `core\functions\fn_HudSetup.sqf`, **remplacez** par le code ci-dessous :
 
