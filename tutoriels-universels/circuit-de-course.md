@@ -20,7 +20,11 @@ Les records sont reset a chaque reboot.
 
 ### **Éléments complémentaires à télécharger \(Obligatoire\)**
 
-Vous devez maintenant **télécharger** les scripts
+Vous devez maintenant **télécharger** le script suivant : 
+
+{% file src="../.gitbook/assets/verification.sqf" %}
+
+A placer dans : 
 
 `Altis_life.Altis\Scripts\Circuit\Verification.sqf`
 
