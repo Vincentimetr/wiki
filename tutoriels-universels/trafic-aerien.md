@@ -20,7 +20,11 @@ Le script est facile à installer et paramétrable.
 
 ### **Éléments à télécharger**
 
-Vous devez maintenant **télécharger** le script \(_Init\_Avion\_Ligne.sqf_\) à mettre dans
+Vous devez maintenant **télécharger** le script \(_Init\_Avion\_Ligne.sqf_\) :
+
+{% file src="../.gitbook/assets/init\_avion\_ligne.sqf" %}
+
+A placer dans : 
 
 _`Altis_life.Altis\Init\`**`Init_Avion_Ligne.sqf`**_  
 
