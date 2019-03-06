@@ -8,7 +8,7 @@ Ce tutoriel permet à une entreprise d'avoir des markers 'Ouvert / Fermer'.
 
 
 
-{% hint style="info" %}
+
 Niveau de difficulté : **Facile**  
 Temps requis : **1 minutes**
 {% endhint %}
@@ -18,7 +18,7 @@ Temps requis : **1 minutes**
 ### **Fichiers concernés**  
 
 	`Altis_Life.Altis\Functions.hpp`
-	`Altis_Life.Altis\core\civilian\fn_markerOpenClose`
+	`Altis_Life.Altis\core\civilian\fn_markerOpenClose.sqf`
 
 ### **Mise en place**
 
