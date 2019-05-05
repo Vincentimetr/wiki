@@ -12,6 +12,7 @@
 
 * [Arma 3 Licence de Modding](modding-modelisation-3d/arma-3-licence-de-modding.md)
 * [Arma 3 Outils Officiels \(En cours de rédaction\)](modding-modelisation-3d/arma-3-outils-officiels-en-cours-de-redaction.md)
+* [Ajouter un add-on sur son serveur](modding-modelisation-3d/ajouter-un-add-on-sur-son-serveur.md)
 
 ## Problèmes les plus communs
 
