@@ -1,7 +1,8 @@
 ---
 description: >-
-  Ce guide vous indiquera comment ajouter et activer un add-on sur votre serveur
-  Arma 3.
+  Ce guide vous indiquera comment ajouter et activer un add-on / mod sur votre
+  serveur Arma 3. (le principe reste le même pour tout type de serveur Arma 3,
+  que ce soit un Life ou un Exile par exemple)
 ---
 
 # Ajouter un add-on sur son serveur
