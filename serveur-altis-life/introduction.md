@@ -1,6 +1,6 @@
 # Bien choisir son serveur
 
-**Bien choisir son support de travail / serveur de développement**
+## **Bien choisir son support de travail / serveur de développement**
 
 Pour commencer, il vous faut un serveur capable d'héberger, et de faire tourner Arma 3 correctement.
 
@@ -21,7 +21,7 @@ Voici une liste de bons hébergeurs, plus ou moins chers :
 * [Pulseheberg](https://www.pulseheberg.com/) \(VPS, Serveurs Dédiés et Espaces Web, sous Windows & Linux\)
 * [LiliumHosting](https://liliumnetwork.fr/) \(VPS sous Windows & Linux\)
 
-**Minimum requis**
+## **Minimum requis**
 
 C'est le minimum requis, pour un serveur de développement, mais si avez une fréquentation conséquente sur votre serveur, prenez plus performant.
 
