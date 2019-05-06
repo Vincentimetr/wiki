@@ -24,7 +24,9 @@ Vous devez vérifier les éléments suivants :
 ```
 
 * **Assurez-vous** que votre dossier @extDB2 contient bien un sous dossier `/addons` qui contient un .pbo
-* **Assurez-vous** d'avoir la librarie Windows `tbbmalloc.dll` la racine de votre serveur.
+* **Assurez-vous** d'avoir la librarie Windows `tbbmalloc.dll` à la racine de votre serveur.
+
+
 
 {% hint style="danger" %}
  _extDB2: Problem with database connection_
@@ -101,6 +103,8 @@ Vous devez vérifiez les éléments suivants :
 
 * **Assurez-vous** que votre dossier @extDB3 contient bien un sous dossier `/addons` qui contient un .pbo
 * **Assurez-vous** d'avoir les 2 libraries Windows `tbbmalloc.dll` et `tbbmalloc_x64.dll` à la racine de votre serveur
+
+
 
 {% hint style="danger" %}
  _extDB3: Problem with database connection_
