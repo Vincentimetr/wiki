@@ -59,6 +59,7 @@ Et **placez** le dans  **`Altis_Life.Altis\Init\Init_Light.sqf`**
 execVM "Init\Init_Light.sqf";
 ```
 
+Author: Vincent Bénet (Vincentimetr)
 
 
 
