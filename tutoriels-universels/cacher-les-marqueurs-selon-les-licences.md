@@ -343,3 +343,4 @@ if (side player == west || side player == resistance) then {{_x setMarkerAlphaLo
 
 \*\*\*\*
 
+Author: Vincent Bénet (Vincentimetr) & Maxence
