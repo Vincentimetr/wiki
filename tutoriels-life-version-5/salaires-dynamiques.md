@@ -107,4 +107,5 @@ switch (playerSide) do {
 {% endhint %}
 
 
+Author: Vincent Bénet (Vincentimetr)
 
