@@ -133,4 +133,4 @@ _altitude_apparition=1000; //(en secondes)
 {% endhint %}
 
 
-
+Author: Vincent Bénet (Vincentimetr)
