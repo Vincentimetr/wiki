@@ -97,3 +97,4 @@ if ((vehicle player isKindOf "car") &&((player distance ThisTrigger)<(((triggerA
 
  ****
 
+Author: Vincent Bénet (Vincentimetr)
