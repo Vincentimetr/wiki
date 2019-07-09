@@ -96,3 +96,4 @@ execVM "Init\Init_Gopro.sqf";
 
 \*\*\*\*
 
+Author: Vincent Bénet (Vincentimetr)
