@@ -158,3 +158,6 @@ Dans la fenêtre `Remplacer par`, **mettre** `Original`
 
 \*\*\*\*
 
+Author: Vincent Bénet (Vincentimetr)
+
+
