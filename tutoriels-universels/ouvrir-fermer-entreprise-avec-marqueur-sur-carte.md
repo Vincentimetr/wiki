@@ -1,4 +1,4 @@
-# Ouvrir / Fermer entreprise avec marqueur sur carte
+# Ouvrir / Fermer entreprise
 
 ## 1- Présentation
 

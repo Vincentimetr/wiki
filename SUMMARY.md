@@ -52,5 +52,5 @@
 * [Cacher les marqueurs selon les licences](tutoriels-universels/cacher-les-marqueurs-selon-les-licences.md)
 * [Boules quiès](tutoriels-universels/boules-quies.md)
 * [Task Force Radio check](tutoriels-universels/task-force-radio-check.md)
-* [Ouvrir / Fermer entreprise avec marqueur sur carte](tutoriels-universels/ouvrir-fermer-entreprise-avec-marqueur-sur-carte.md)
+* [Ouvrir / Fermer entreprise](tutoriels-universels/ouvrir-fermer-entreprise-avec-marqueur-sur-carte.md)
 
