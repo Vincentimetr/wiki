@@ -50,6 +50,6 @@
 * [SafeZone + Anti-Tirs + Messages](tutoriels-universels/safezone-+-anti-tirs-+-messages.md)
 * [Autosave](tutoriels-universels/autosave.md)
 * [Cacher les marqueurs selon les licences](tutoriels-universels/cacher-les-marqueurs-selon-les-licences.md)
-* [Boules quies](tutoriels-universels/boules-quies.md)
+* [Boules quiès](tutoriels-universels/boules-quies.md)
 * [Task Force Radio check](tutoriels-universels/task-force-radio-check.md)
 

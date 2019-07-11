@@ -61,5 +61,5 @@ execVM "Init\Init_Light.sqf";
 
 
 
-
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
 

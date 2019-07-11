@@ -206,3 +206,7 @@ _temps_fumee=2.5; //Temps de déclenchement des fumées (en secondes)
 **Solution** : Vous devez modifier les paramètres en baissant le nombre de fragments, réduire le nombre de lanceurs d'artifices et augmenter le temps entre deux tirs.
 {% endhint %}
 
+
+
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+

@@ -134,3 +134,5 @@ _altitude_apparition=1000; //(en secondes)
 
 
 
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+
