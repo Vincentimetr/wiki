@@ -343,3 +343,5 @@ if (side player == west || side player == resistance) then {{_x setMarkerAlphaLo
 
 \*\*\*\*
 
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+

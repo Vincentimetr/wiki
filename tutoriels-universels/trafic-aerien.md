@@ -132,5 +132,10 @@ _altitude_apparition=1000; //(en secondes)
 **Solution** : Vous devez vous convaincre que c'est bien assez haut.
 {% endhint %}
 
+<<<<<< patch-1
+Author: Vincent Bénet (Vincentimetr)
+======
 
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
 
+>>>>>> master
