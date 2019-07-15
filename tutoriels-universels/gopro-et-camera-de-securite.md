@@ -96,3 +96,9 @@ execVM "Init\Init_Gopro.sqf";
 
 \*\*\*\*
 
+<<<<<< patch-3
+Author: Vincent Bénet (Vincentimetr)
+=======
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+
+>>>>>> master

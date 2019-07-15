@@ -343,4 +343,9 @@ if (side player == west || side player == resistance) then {{_x setMarkerAlphaLo
 
 \*\*\*\*
 
-Author: Vincent Bénet (Vincentimetr) & Maxence
+<<<<< patch-7
+Author: Vincent Bénet (Vincentimetr)
+=======
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+
+>>>>> master

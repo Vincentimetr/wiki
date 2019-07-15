@@ -81,7 +81,7 @@ private _name = [_this,3,"",[""]] call BIS_fnc_param;
 
 3 - La commande est a mettre dans un panneau / PNJ / autres object In Game
 ```sqf
-this addAction ["Ouvrir / Fermer ", ina_fnc_markerOpenClose, "Nom de l'entreprise", 0, false, false, "", 'licence_civ_....'];
+this addAction ["Ouvrir / Fermer ", life_fnc_markerOpenClose, "Nom de l'entreprise", 0, false, false, "", 'licence_civ_....'];
 ```
 
 
