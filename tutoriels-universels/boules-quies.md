@@ -42,5 +42,9 @@ Temps requis : **5 minutes**
 
 
 
+<<<<< patch-8
+Author: Vincent Bénet (Vincentimetr)
+=======
 Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
 
+>>>>> master
