@@ -107,6 +107,7 @@ switch (playerSide) do {
 {% endhint %}
 
 
+Author: Vincent Bénet (Vincentimetr)
 
 Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
 
