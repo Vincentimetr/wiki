@@ -158,5 +158,9 @@ Dans la fenêtre `Remplacer par`, **mettre** `Original`
 
 \*\*\*\*
 
+<<<<< patch-9
+Author: Vincent Bénet (Vincentimetr)
+=======
 Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
 
+>>>>> master
