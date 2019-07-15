@@ -97,4 +97,9 @@ if ((vehicle player isKindOf "car") &&((player distance ThisTrigger)<(((triggerA
 
  ****
 
+<<<<< patch-6
 Author: Vincent Bénet (Vincentimetr)
+=======
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+
+>>>>> master
