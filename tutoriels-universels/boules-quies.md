@@ -1,4 +1,4 @@
-# Boules quies
+# Boules quiès
 
 ## 1- Introduction <a id="bkmrk-page-title"></a>
 
@@ -42,5 +42,5 @@ Temps requis : **5 minutes**
 
 
 
-
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
 

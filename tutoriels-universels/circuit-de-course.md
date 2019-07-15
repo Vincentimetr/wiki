@@ -97,3 +97,5 @@ if ((vehicle player isKindOf "car") &&((player distance ThisTrigger)<(((triggerA
 
  ****
 
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+
