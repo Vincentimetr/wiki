@@ -158,3 +158,5 @@ Dans la fenêtre `Remplacer par`, **mettre** `Original`
 
 \*\*\*\*
 
+Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
+
