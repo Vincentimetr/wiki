@@ -75,16 +75,10 @@ Le dernier trigger des checkpoints sera `trigger_2_4`
 
 ![](../.gitbook/assets/telechargement.png)
 
-6- **Entrez** dans "On Activation" du trigger du circuit 1 le texte suivant:
+6- **Entrez** dans "On Activation" du trigger le code suivant:
 
 ```text
-if ((vehicle player isKindOf "car") && ((player distance ThisTrigger)<(((triggerArea ThisTrigger)select 0 ) max ((triggerArea ThisTrigger)select 1 )*1.5)))then {player setVariable["Circuit",1,true];ThisTrigger call compile preprocessFileLineNumbers 'core\scripts\Circuit\Verification.sqf';}; 
-```
-
- Pour le circuit 2 **entrez**:
-
-```text
-if ((vehicle player isKindOf "car") &&((player distance ThisTrigger)<(((triggerArea ThisTrigger)select 0 ) max ((triggerArea ThisTrigger)select 1 )*1.5)))then {player setVariable["Circuit",2,true];ThisTrigger call compile preprocessFileLineNumbers 'core\scripts\Circuit\Verification.sqf';};
+ThisTrigger call compile preprocessFileLineNumbers 'core\scripts\Circuit\Verification.sqf';
 ```
 
 {% hint style="info" %}
@@ -97,9 +91,4 @@ if ((vehicle player isKindOf "car") &&((player distance ThisTrigger)<(((triggerA
 
  ****
 
-<<<<< patch-6
-Author: Vincent Bénet (Vincentimetr)
-=======
 Tutoriel proposé par Vincent Bénet \( [Vincentimetr](https://altisdev.com/u/vincentimetr/) \)
-
->>>>> master
